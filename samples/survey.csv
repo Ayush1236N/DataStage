@@ -1,0 +1,1201 @@
+response_id,submitted_at,segment,role,country,tenure_months,seats,monthly_spend_usd,satisfaction_score,nps_score,weekly_sessions,features_used,renewed,comment
+R00001,2026-01-14,Startup,Manager,US,15,319,118.93,7.1,5,6,4,True,Support answered within an hour and solved my import problem.
+R00002,2026-04-13,Startup,Manager,DE,32,90,184.35,7.0,5,10,6,True,The template gallery saves me hours every single week.
+R00003,2026-02-28,Startup,Analyst,UK,57,185,239.46,6.7,4,6,2,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00004,2026-06-18,SMB,Analyst,US,28,1,196.41,8.6,9,13,5,True,Love the dashboard speed; charts render instantly on my laptop.
+R00005,2026-06-10,Mid-market,Engineer,UK,37,22,45.92,7.2,6,13,11,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00006,2026-01-30,Startup,Manager,CA,48,220,250.7,6.9,5,6,1,False,"Sync with our warehouse failed twice this month, frustrating."
+R00007,2026-03-25,Enterprise,Manager,US,37,26,259.78,8.2,6,5,5,True,The template gallery saves me hours every single week.
+R00008,2026-05-11,Enterprise,Director,CA,43,243,359.74,7.3,6,8,14,True,The onboarding flow was smooth but the export step felt slow.
+R00009,2026-05-25,Enterprise,Executive,UK,4,271,149.85,9.6,8,12,7,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00010,2026-06-10,Startup,Manager,US,39,127,77.68,8.5,8,11,4,True,Support answered within an hour and solved my import problem.
+R00011,2026-07-06,SMB,Analyst,US,41,79,855.06,6.9,3,11,4,True,Support answered within an hour and solved my import problem.
+R00012,2026-08-01,Startup,Director,DE,44,242,383.11,7.4,6,6,6,True,"Sync with our warehouse failed twice this month, frustrating."
+R00013,2026-05-27,Startup,Analyst,IN,50,108,678.99,7.3,7,11,14,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00014,2026-05-24,Startup,Analyst,BR,55,180,71.44,9.8,8,8,7,False,The onboarding flow was smooth but the export step felt slow.
+R00015,2026-02-18,Mid-market,Analyst,CA,22,110,511.52,9.3,10,10,10,True,Would pay more for scheduled reports and Slack delivery.
+R00016,2026-05-30,Enterprise,Executive,UK,52,198,557.05,5.7,4,11,10,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00017,2026-02-15,Enterprise,Analyst,CA,55,178,343.32,6.6,5,5,10,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00018,2026-04-15,Mid-market,Engineer,US,18,116,181.61,9.0,9,14,4,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00019,2026-01-10,Mid-market,Engineer,CA,17,61,156.81,8.4,10,12,8,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00020,2026-02-27,Mid-market,Executive,US,56,47,153.54,10.0,10,14,6,True,Too many clicks to share a report with my finance team.
+R00021,2026-06-07,Startup,Executive,US,25,151,421.82,10.0,8,9,13,True,The template gallery saves me hours every single week.
+R00022,2026-05-13,Mid-market,Engineer,UK,57,28,240.36,8.4,7,9,11,True,Colour palettes look professional in client presentations.
+R00023,2026-06-01,SMB,Manager,US,4,174,123.72,4.7,4,11,7,True,"Sync with our warehouse failed twice this month, frustrating."
+R00024,2026-07-26,Mid-market,Executive,BR,27,262,484.6,7.3,8,11,1,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00025,2026-03-14,Startup,Executive,IN,36,156,138.73,10.0,7,8,9,False,The onboarding flow was smooth but the export step felt slow.
+R00026,2026-06-05,SMB,Manager,DE,36,247,928.23,7.9,8,12,1,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00027,2026-03-24,SMB,Manager,US,5,188,62.28,8.3,5,9,4,True,Support answered within an hour and solved my import problem.
+R00028,2026-06-02,Mid-market,Manager,UK,1,187,72.46,9.9,8,10,12,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00029,2026-05-04,Startup,Director,AU,57,179,95.26,7.1,7,6,11,True,Love the dashboard speed; charts render instantly on my laptop.
+R00030,2026-05-03,Mid-market,Director,US,10,46,468.18,9.5,9,10,9,True,Love the dashboard speed; charts render instantly on my laptop.
+R00031,2026-02-22,Startup,Director,US,27,47,98.7,9.1,8,7,12,True,Would pay more for scheduled reports and Slack delivery.
+R00032,2026-06-10,Mid-market,Manager,US,25,283,193.0,9.1,9,12,10,True,Love the dashboard speed; charts render instantly on my laptop.
+R00033,2026-04-03,Startup,Manager,DE,20,239,334.11,8.9,6,12,5,True,The onboarding flow was smooth but the export step felt slow.
+R00034,2026-03-01,SMB,Engineer,US,33,263,95.02,10.0,8,12,8,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00035,2026-03-16,SMB,Manager,US,32,139,741.06,7.9,5,15,3,True,Would pay more for scheduled reports and Slack delivery.
+R00036,2026-02-18,Enterprise,Analyst,US,3,245,143.3,9.2,8,6,8,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00037,2026-05-01,Mid-market,Analyst,UK,33,168,135.93,9.1,8,5,11,True,Too many clicks to share a report with my finance team.
+R00038,2026-04-04,Mid-market,Manager,US,31,287,120.11,9.9,8,3,2,True,Support answered within an hour and solved my import problem.
+R00039,2026-04-09,Startup,Executive,US,41,312,279.86,3.8,2,13,13,True,"Sync with our warehouse failed twice this month, frustrating."
+R00040,2026-06-17,Startup,Executive,US,25,178,263.54,8.2,8,12,1,False,Support answered within an hour and solved my import problem.
+R00041,2026-07-05,Startup,Director,IN,40,197,263.97,8.4,7,12,1,False,The onboarding flow was smooth but the export step felt slow.
+R00042,2026-03-23,SMB,Engineer,US,47,239,417.66,7.7,7,7,12,True,"Sync with our warehouse failed twice this month, frustrating."
+R00043,2026-01-09,SMB,Engineer,BR,41,245,109.27,7.0,7,8,3,True,The onboarding flow was smooth but the export step felt slow.
+R00044,2026-06-13,SMB,Manager,US,9,134,112.08,9.0,7,10,4,True,Love the dashboard speed; charts render instantly on my laptop.
+R00045,2026-06-05,SMB,Manager,AU,44,96,518.02,8.0,8,11,4,True,Love the dashboard speed; charts render instantly on my laptop.
+R00046,2026-04-23,Startup,Engineer,US,10,12,549.11,5.6,4,11,5,True,Would pay more for scheduled reports and Slack delivery.
+R00047,2026-03-03,Startup,Engineer,DE,59,180,412.57,10.0,8,14,14,True,Support answered within an hour and solved my import problem.
+R00048,2026-07-10,SMB,Analyst,UK,8,170,329.52,7.6,8,10,11,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00049,2026-06-17,Mid-market,Director,AU,23,114,986.04,8.7,6,8,12,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00050,2026-06-08,SMB,Executive,US,20,19,141.23,9.2,10,10,1,True,"Sync with our warehouse failed twice this month, frustrating."
+R00051,2026-04-28,SMB,Manager,IN,23,98,270.29,8.0,7,13,14,True,Support answered within an hour and solved my import problem.
+R00052,2026-03-21,SMB,Director,US,11,34,309.53,7.8,6,16,11,True,Too many clicks to share a report with my finance team.
+R00053,2026-05-29,Mid-market,Analyst,DE,25,99,1220.5,9.3,10,10,11,True,"Sync with our warehouse failed twice this month, frustrating."
+R00054,2026-02-12,SMB,Engineer,US,53,226,101.97,6.9,5,10,13,False,The template gallery saves me hours every single week.
+R00055,2026-05-01,Startup,Engineer,US,38,116,270.38,9.1,8,13,11,True,"Sync with our warehouse failed twice this month, frustrating."
+R00056,2026-04-17,Mid-market,Director,DE,9,268,733.11,7.9,8,5,1,True,"Sync with our warehouse failed twice this month, frustrating."
+R00057,2026-06-21,Startup,Analyst,UK,30,210,79.73,8.1,8,6,3,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00058,2026-02-08,SMB,Executive,UK,34,213,117.57,10.0,9,9,4,False,Love the dashboard speed; charts render instantly on my laptop.
+R00059,2026-05-02,Mid-market,Director,US,12,172,313.79,10.0,10,11,13,True,Would pay more for scheduled reports and Slack delivery.
+R00060,2026-03-11,Startup,Executive,US,36,310,1505.8,5.3,4,8,13,True,Love the dashboard speed; charts render instantly on my laptop.
+R00061,2026-07-18,Startup,Engineer,US,32,312,242.69,8.1,8,11,13,False,"Sync with our warehouse failed twice this month, frustrating."
+R00062,2026-06-16,SMB,Engineer,AU,16,175,108.87,7.0,4,14,5,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00063,2026-04-15,Mid-market,Director,US,54,185,748.53,9.2,7,12,10,True,"Sync with our warehouse failed twice this month, frustrating."
+R00064,2026-05-17,Mid-market,Executive,US,35,188,160.31,8.2,6,11,4,True,Too many clicks to share a report with my finance team.
+R00065,2026-07-07,SMB,Manager,IN,8,188,280.8,9.1,7,8,4,True,Support answered within an hour and solved my import problem.
+R00066,2026-08-02,SMB,Manager,IN,53,43,610.42,10.0,9,14,3,True,Support answered within an hour and solved my import problem.
+R00067,2026-03-31,Enterprise,Engineer,CA,4,2,188.94,8.5,9,10,2,True,"Sync with our warehouse failed twice this month, frustrating."
+R00068,2026-03-14,Enterprise,Analyst,IN,19,158,214.12,8.9,10,8,6,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00069,2026-03-13,Mid-market,Analyst,CA,24,55,68.19,10.0,9,14,4,True,"Sync with our warehouse failed twice this month, frustrating."
+R00070,2026-06-19,Enterprise,Engineer,US,52,132,92.05,6.0,5,11,5,True,Colour palettes look professional in client presentations.
+R00071,2026-05-16,SMB,Director,BR,39,172,351.29,5.4,5,12,4,True,Love the dashboard speed; charts render instantly on my laptop.
+R00072,2026-07-20,Mid-market,Director,UK,54,45,138.43,6.6,6,5,2,True,The onboarding flow was smooth but the export step felt slow.
+R00073,2026-04-01,Startup,Manager,UK,17,80,146.76,7.4,3,12,11,True,Too many clicks to share a report with my finance team.
+R00074,2026-06-01,Startup,Engineer,IN,5,80,176.71,8.1,8,7,3,True,"Sync with our warehouse failed twice this month, frustrating."
+R00075,2026-07-19,SMB,Director,UK,44,221,194.53,6.7,6,13,13,True,The onboarding flow was smooth but the export step felt slow.
+R00076,2026-02-04,Startup,Manager,BR,8,297,182.17,7.7,4,9,1,True,Would pay more for scheduled reports and Slack delivery.
+R00077,2026-06-12,Startup,Director,IN,4,131,282.46,6.3,4,5,13,False,The template gallery saves me hours every single week.
+R00078,2026-06-07,Enterprise,Executive,BR,22,279,81.74,6.8,7,7,8,False,Love the dashboard speed; charts render instantly on my laptop.
+R00079,2026-06-24,SMB,Director,IN,47,47,452.42,6.3,3,8,9,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00080,2026-02-07,Mid-market,Analyst,US,32,279,684.81,8.4,7,9,12,False,"Sync with our warehouse failed twice this month, frustrating."
+R00081,2026-03-19,Enterprise,Engineer,BR,48,40,200.75,10.0,9,10,3,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00082,2026-02-25,Startup,Engineer,CA,44,181,321.94,7.8,6,11,1,True,Support answered within an hour and solved my import problem.
+R00083,2026-04-17,Startup,Manager,US,18,135,156.86,8.5,8,11,5,True,The template gallery saves me hours every single week.
+R00084,2026-07-30,SMB,Executive,BR,47,182,122.86,7.7,4,10,1,True,Too many clicks to share a report with my finance team.
+R00085,2026-02-27,Startup,Engineer,CA,58,95,192.96,9.2,8,15,6,False,The template gallery saves me hours every single week.
+R00086,2026-02-25,SMB,Analyst,CA,29,174,312.98,8.6,7,9,5,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00087,2026-02-14,Mid-market,Manager,US,5,220,96.99,8.3,6,8,10,False,The onboarding flow was smooth but the export step felt slow.
+R00088,2026-04-28,Enterprise,Manager,US,57,19,31.28,10.0,8,12,10,True,Too many clicks to share a report with my finance team.
+R00089,2026-03-20,Mid-market,Analyst,IN,46,39,121.51,7.9,8,14,4,True,The onboarding flow was smooth but the export step felt slow.
+R00090,2026-05-16,SMB,Manager,IN,56,114,94.56,10.0,8,7,11,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00091,2026-07-04,Mid-market,Manager,IN,46,136,56.08,9.9,10,6,7,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00092,2026-01-22,SMB,Engineer,IN,3,113,550.32,7.7,7,8,5,True,"Sync with our warehouse failed twice this month, frustrating."
+R00093,2026-01-22,Startup,Executive,AU,2,274,267.17,9.0,7,11,1,False,Colour palettes look professional in client presentations.
+R00094,2026-03-09,Mid-market,Director,BR,32,293,170.25,6.5,7,6,3,True,The onboarding flow was smooth but the export step felt slow.
+R00095,2026-06-18,SMB,Engineer,US,19,107,292.87,7.2,7,9,11,True,The template gallery saves me hours every single week.
+R00096,2026-01-12,SMB,Director,US,6,235,152.99,8.5,8,9,5,True,Would pay more for scheduled reports and Slack delivery.
+R00097,2026-04-24,Startup,Director,UK,19,57,94.99,7.0,6,3,9,False,"Sync with our warehouse failed twice this month, frustrating."
+R00098,2026-07-09,Startup,Director,US,58,127,141.32,7.7,4,6,5,True,Colour palettes look professional in client presentations.
+R00099,2026-01-18,Mid-market,Director,US,50,12,585.85,6.8,8,10,11,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00100,2026-07-28,Mid-market,Manager,US,43,241,275.41,8.7,9,12,14,True,Too many clicks to share a report with my finance team.
+R00101,2026-05-18,Enterprise,Engineer,US,60,230,486.39,6.9,6,14,13,True,Too many clicks to share a report with my finance team.
+R00102,2026-01-09,Startup,Manager,UK,51,191,158.06,7.3,7,12,12,True,The template gallery saves me hours every single week.
+R00103,2026-07-06,Enterprise,Manager,UK,30,256,403.7,7.8,6,12,14,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00104,2026-01-08,Mid-market,Executive,CA,38,113,107.47,6.1,3,13,7,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00105,2026-06-05,Startup,Manager,IN,25,313,316.33,6.5,3,13,14,True,Support answered within an hour and solved my import problem.
+R00106,2026-05-13,Mid-market,Analyst,IN,46,38,50.89,9.2,7,8,6,True,"Sync with our warehouse failed twice this month, frustrating."
+R00107,2026-02-21,Startup,Analyst,UK,39,44,229.87,7.5,6,7,12,True,Too many clicks to share a report with my finance team.
+R00108,2026-06-13,SMB,Analyst,US,52,283,198.99,8.3,7,7,10,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00109,2026-05-10,Startup,Executive,US,12,305,57.92,8.7,7,12,5,True,Colour palettes look professional in client presentations.
+R00110,2026-05-31,Startup,Executive,DE,50,54,326.1,8.8,5,14,14,False,Colour palettes look professional in client presentations.
+R00111,2026-04-12,Startup,Executive,US,5,84,92.46,10.0,10,6,10,False,Would pay more for scheduled reports and Slack delivery.
+R00112,2026-07-11,Mid-market,Analyst,DE,1,258,235.84,7.4,4,9,2,True,Would pay more for scheduled reports and Slack delivery.
+R00113,2026-05-12,Startup,Manager,US,51,115,349.3,7.7,7,10,10,True,Support answered within an hour and solved my import problem.
+R00114,2026-06-04,SMB,Executive,US,6,150,703.84,5.9,7,13,5,True,The template gallery saves me hours every single week.
+R00115,2026-07-16,SMB,Analyst,UK,5,308,358.24,9.7,8,7,2,True,The template gallery saves me hours every single week.
+R00116,2026-03-12,Enterprise,Manager,UK,21,79,663.89,5.9,4,11,9,True,Colour palettes look professional in client presentations.
+R00117,2026-01-25,Mid-market,Executive,US,5,25,1451.07,10.0,9,8,11,True,"Sync with our warehouse failed twice this month, frustrating."
+R00118,2026-03-07,SMB,Executive,UK,32,95,245.54,9.2,8,13,5,True,Would pay more for scheduled reports and Slack delivery.
+R00119,2026-04-20,Mid-market,Manager,US,24,76,361.31,7.2,7,13,13,True,The onboarding flow was smooth but the export step felt slow.
+R00120,2026-07-26,Startup,Engineer,US,9,46,135.83,8.8,8,7,13,False,The onboarding flow was smooth but the export step felt slow.
+R00121,2026-05-09,Startup,Director,IN,18,115,98.21,7.8,6,5,9,False,The template gallery saves me hours every single week.
+R00122,2026-04-09,SMB,Engineer,IN,45,126,133.3,8.0,9,13,8,True,The template gallery saves me hours every single week.
+R00123,2026-06-09,Startup,Executive,US,33,49,219.76,6.3,5,9,11,True,Too many clicks to share a report with my finance team.
+R00124,2026-05-07,Startup,Director,US,12,298,248.32,10.0,7,10,4,False,Too many clicks to share a report with my finance team.
+R00125,2026-05-10,SMB,Engineer,DE,29,198,164.61,6.4,2,11,7,True,The onboarding flow was smooth but the export step felt slow.
+R00126,2026-04-21,SMB,Executive,BR,38,79,73.66,7.0,6,9,9,True,Colour palettes look professional in client presentations.
+R00127,2026-02-04,Mid-market,Executive,US,32,315,418.06,9.2,7,11,5,True,Colour palettes look professional in client presentations.
+R00128,2026-02-27,Startup,Analyst,US,48,147,304.59,8.3,9,14,9,True,Too many clicks to share a report with my finance team.
+R00129,2026-04-01,Startup,Analyst,UK,43,126,87.77,9.1,9,8,12,True,Love the dashboard speed; charts render instantly on my laptop.
+R00130,2026-04-30,SMB,Engineer,IN,24,204,238.3,8.3,9,13,3,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00131,2026-04-07,SMB,Analyst,US,9,219,156.28,10.0,8,10,4,True,Love the dashboard speed; charts render instantly on my laptop.
+R00132,2026-02-15,Mid-market,Analyst,IN,22,191,411.59,8.4,7,8,13,True,Would pay more for scheduled reports and Slack delivery.
+R00133,2026-02-24,SMB,Manager,US,15,125,159.15,7.9,7,10,2,False,Love the dashboard speed; charts render instantly on my laptop.
+R00134,2026-07-15,Startup,Manager,US,17,194,124.45,6.4,2,13,9,False,The onboarding flow was smooth but the export step felt slow.
+R00135,2026-07-01,Mid-market,Engineer,IN,39,10,134.09,7.0,7,10,8,True,"Sync with our warehouse failed twice this month, frustrating."
+R00136,2026-04-19,Mid-market,Engineer,IN,48,197,946.91,8.6,8,13,4,True,Would pay more for scheduled reports and Slack delivery.
+R00137,2026-04-20,Mid-market,Executive,UK,20,190,344.01,10.0,10,13,12,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00138,2026-05-13,SMB,Engineer,BR,14,171,113.48,8.3,7,6,12,False,Support answered within an hour and solved my import problem.
+R00139,2026-06-05,Mid-market,Engineer,CA,27,246,146.47,7.4,4,5,4,True,Love the dashboard speed; charts render instantly on my laptop.
+R00140,2026-02-19,SMB,Executive,IN,50,209,458.06,7.4,7,12,9,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00141,2026-01-28,SMB,Analyst,US,55,91,100.49,8.1,7,18,14,False,The onboarding flow was smooth but the export step felt slow.
+R00142,2026-04-14,SMB,Director,US,20,101,1125.14,3.5,1,15,8,True,The template gallery saves me hours every single week.
+R00143,2026-03-30,Mid-market,Executive,US,33,48,101.11,8.1,8,7,7,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00144,2026-01-28,SMB,Director,US,38,226,179.58,6.3,6,16,9,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00145,2026-01-29,Startup,Executive,IN,44,214,224.23,6.3,4,12,7,True,Support answered within an hour and solved my import problem.
+R00146,2026-07-16,Mid-market,Director,US,41,246,223.68,10.0,9,12,6,True,Love the dashboard speed; charts render instantly on my laptop.
+R00147,2026-03-04,Mid-market,Executive,BR,16,208,710.34,8.5,9,7,13,False,The onboarding flow was smooth but the export step felt slow.
+R00148,2026-02-14,SMB,Director,IN,2,60,399.29,8.3,5,8,13,True,Love the dashboard speed; charts render instantly on my laptop.
+R00149,2026-06-25,Enterprise,Executive,DE,43,318,356.61,8.4,8,12,10,False,Support answered within an hour and solved my import problem.
+R00150,2026-04-25,Enterprise,Engineer,IN,50,246,487.82,8.9,9,8,9,False,Would pay more for scheduled reports and Slack delivery.
+R00151,2026-01-07,Startup,Executive,US,47,169,135.88,8.8,8,13,11,True,Too many clicks to share a report with my finance team.
+R00152,2026-03-03,SMB,Director,BR,53,245,152.5,8.5,8,6,6,True,Too many clicks to share a report with my finance team.
+R00153,2026-02-24,SMB,Engineer,BR,29,187,42.9,8.6,8,10,4,True,Would pay more for scheduled reports and Slack delivery.
+R00154,2026-04-27,Startup,Manager,CA,51,181,262.06,9.4,9,7,8,True,The template gallery saves me hours every single week.
+R00155,2026-04-16,Mid-market,Engineer,AU,45,273,509.35,5.1,3,10,10,True,The onboarding flow was smooth but the export step felt slow.
+R00156,2026-07-23,SMB,Director,US,53,22,399.43,7.8,7,6,3,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00157,2026-06-20,Enterprise,Manager,DE,51,136,107.5,6.7,6,13,9,False,The onboarding flow was smooth but the export step felt slow.
+R00158,2026-06-08,Enterprise,Director,IN,2,55,385.21,8.3,8,15,5,True,The onboarding flow was smooth but the export step felt slow.
+R00159,2026-01-07,Enterprise,Executive,IN,17,43,303.38,7.5,6,14,5,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00160,2026-06-24,Startup,Analyst,UK,55,285,286.51,6.4,6,9,7,False,The onboarding flow was smooth but the export step felt slow.
+R00161,2026-07-24,SMB,Manager,US,43,239,181.74,5.9,3,8,3,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00162,2026-01-26,SMB,Manager,AU,21,139,143.21,8.7,9,9,11,False,Colour palettes look professional in client presentations.
+R00163,2026-07-03,SMB,Executive,US,19,218,96.88,5.4,5,10,12,False,Support answered within an hour and solved my import problem.
+R00164,2026-04-21,SMB,Manager,US,49,88,553.32,5.9,4,14,6,True,The onboarding flow was smooth but the export step felt slow.
+R00165,2026-05-18,Enterprise,Analyst,US,14,222,83.83,8.3,6,10,6,False,Love the dashboard speed; charts render instantly on my laptop.
+R00166,2026-03-12,SMB,Analyst,US,12,145,139.68,7.5,6,10,5,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00167,2026-06-25,Mid-market,Manager,UK,40,71,85.23,9.6,7,10,11,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00168,2026-02-21,SMB,Engineer,DE,8,158,233.26,6.2,5,9,6,True,"Sync with our warehouse failed twice this month, frustrating."
+R00169,2026-06-22,Enterprise,Analyst,IN,60,287,199.42,9.7,10,10,11,True,Colour palettes look professional in client presentations.
+R00170,2026-05-15,Startup,Executive,DE,40,254,177.61,8.4,5,8,1,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00171,2026-05-08,Startup,Director,CA,16,311,61.69,5.2,5,9,10,False,Would pay more for scheduled reports and Slack delivery.
+R00172,2026-07-27,Startup,Executive,US,54,308,205.54,8.3,7,10,13,True,Support answered within an hour and solved my import problem.
+R00173,2026-07-01,Startup,Manager,DE,50,79,460.99,7.3,8,10,11,True,Colour palettes look professional in client presentations.
+R00174,2026-02-04,Startup,Manager,US,39,30,328.91,8.1,6,12,11,True,Colour palettes look professional in client presentations.
+R00175,2026-03-29,Mid-market,Analyst,BR,15,79,152.38,8.4,9,15,7,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00176,2026-06-01,SMB,Executive,DE,59,60,441.77,9.4,10,7,7,False,Colour palettes look professional in client presentations.
+R00177,2026-01-08,Startup,Analyst,BR,29,284,116.93,8.4,6,10,11,True,Support answered within an hour and solved my import problem.
+R00178,2026-03-07,Enterprise,Director,DE,57,148,258.36,8.9,8,7,13,False,Support answered within an hour and solved my import problem.
+R00179,2026-05-15,Mid-market,Director,CA,47,189,112.63,9.7,10,11,6,True,"Sync with our warehouse failed twice this month, frustrating."
+R00180,2026-04-20,SMB,Manager,US,24,254,280.12,7.1,5,9,10,True,Colour palettes look professional in client presentations.
+R00181,2026-05-10,Enterprise,Director,US,24,186,152.48,6.4,6,10,12,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00182,2026-03-08,SMB,Engineer,US,17,231,179.75,7.8,8,5,5,True,"Sync with our warehouse failed twice this month, frustrating."
+R00183,2026-06-08,Mid-market,Engineer,UK,30,177,164.91,9.5,7,9,13,True,Support answered within an hour and solved my import problem.
+R00184,2026-07-12,SMB,Executive,CA,9,181,323.02,6.6,5,10,12,True,"Sync with our warehouse failed twice this month, frustrating."
+R00185,2026-07-14,Mid-market,Director,UK,3,17,195.71,9.2,6,7,5,False,Love the dashboard speed; charts render instantly on my laptop.
+R00186,2026-02-19,Mid-market,Engineer,US,59,260,91.5,9.2,8,16,3,True,Love the dashboard speed; charts render instantly on my laptop.
+R00187,2026-04-20,Startup,Analyst,US,51,63,313.48,8.4,5,11,7,True,Too many clicks to share a report with my finance team.
+R00188,2026-07-15,Enterprise,Engineer,BR,12,151,875.01,8.2,6,7,13,True,The template gallery saves me hours every single week.
+R00189,2026-02-04,Startup,Manager,AU,24,9,487.03,9.3,10,11,12,True,Colour palettes look professional in client presentations.
+R00190,2026-05-28,SMB,Analyst,BR,48,55,595.99,7.1,6,9,9,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00191,2026-01-14,Startup,Director,CA,5,82,145.52,7.3,6,14,12,True,"Sync with our warehouse failed twice this month, frustrating."
+R00192,2026-01-29,Startup,Analyst,US,20,247,222.14,6.5,6,13,1,True,Would pay more for scheduled reports and Slack delivery.
+R00193,2026-07-27,Enterprise,Manager,BR,7,254,212.44,7.6,8,9,14,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00194,2026-07-08,Mid-market,Manager,IN,53,259,254.49,7.6,6,7,10,True,The onboarding flow was smooth but the export step felt slow.
+R00195,2026-04-24,Mid-market,Engineer,US,26,270,320.07,8.6,8,11,5,True,Support answered within an hour and solved my import problem.
+R00196,2026-04-13,Startup,Analyst,US,20,15,292.5,7.7,8,14,1,True,The onboarding flow was smooth but the export step felt slow.
+R00197,2026-03-22,Mid-market,Director,AU,39,310,307.86,7.6,5,5,4,True,Too many clicks to share a report with my finance team.
+R00198,2026-06-17,SMB,Director,IN,45,116,415.27,9.9,8,16,4,False,Love the dashboard speed; charts render instantly on my laptop.
+R00199,2026-05-25,Enterprise,Manager,US,12,152,232.94,6.8,6,10,1,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00200,2026-02-17,SMB,Engineer,IN,8,138,325.87,7.6,6,8,12,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00201,2026-01-26,Startup,Manager,UK,57,286,379.57,6.1,4,8,3,True,The template gallery saves me hours every single week.
+R00202,2026-07-18,Mid-market,Engineer,US,29,262,173.84,8.6,10,14,2,True,Love the dashboard speed; charts render instantly on my laptop.
+R00203,2026-03-19,SMB,Director,US,15,107,92.81,7.2,6,7,10,True,Love the dashboard speed; charts render instantly on my laptop.
+R00204,2026-05-14,Mid-market,Engineer,US,10,130,48.2,6.4,7,8,3,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00205,2026-01-29,SMB,Executive,IN,49,261,265.09,8.2,8,7,9,True,Would pay more for scheduled reports and Slack delivery.
+R00206,2026-05-08,Startup,Director,BR,55,249,209.66,10.0,9,8,10,False,Support answered within an hour and solved my import problem.
+R00207,2026-06-22,SMB,Executive,CA,21,272,267.33,9.1,9,12,11,True,The onboarding flow was smooth but the export step felt slow.
+R00208,2026-02-08,SMB,Manager,US,29,152,594.11,6.2,6,10,8,True,Support answered within an hour and solved my import problem.
+R00209,2026-04-14,Mid-market,Engineer,US,58,38,98.49,8.7,7,7,1,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00210,2026-04-24,SMB,Manager,UK,52,165,710.78,7.6,5,11,7,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00211,2026-04-26,SMB,Manager,UK,31,256,515.34,8.8,8,15,8,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00212,2026-05-23,Enterprise,Analyst,US,46,18,534.48,7.0,6,7,7,True,The template gallery saves me hours every single week.
+R00213,2026-07-30,Startup,Director,BR,43,192,158.52,7.8,7,11,1,True,The onboarding flow was smooth but the export step felt slow.
+R00214,2026-03-22,Enterprise,Manager,IN,9,284,96.27,9.1,8,7,5,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00215,2026-07-14,Enterprise,Engineer,UK,58,5,275.93,8.1,6,13,1,True,Would pay more for scheduled reports and Slack delivery.
+R00216,2026-05-28,Enterprise,Manager,US,41,40,439.51,9.2,7,9,14,True,The onboarding flow was smooth but the export step felt slow.
+R00217,2026-01-09,SMB,Analyst,DE,1,304,399.66,8.1,7,6,6,True,Too many clicks to share a report with my finance team.
+R00218,2026-04-28,Enterprise,Analyst,US,39,167,104.52,7.8,6,10,7,True,Would pay more for scheduled reports and Slack delivery.
+R00219,2026-01-20,SMB,Engineer,AU,46,120,381.31,8.0,7,7,11,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00220,2026-03-21,Startup,Engineer,UK,37,306,153.18,7.8,9,9,6,True,The template gallery saves me hours every single week.
+R00221,2026-03-03,Startup,Analyst,US,58,104,196.16,7.2,7,11,7,True,Would pay more for scheduled reports and Slack delivery.
+R00222,2026-02-23,Mid-market,Analyst,UK,26,4,998.84,8.4,6,14,11,True,Colour palettes look professional in client presentations.
+R00223,2026-01-08,SMB,Executive,UK,60,60,268.65,9.0,4,14,2,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00224,2026-06-26,Enterprise,Director,US,6,132,1033.81,7.8,6,11,4,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00225,2026-03-18,SMB,Analyst,US,22,257,112.99,8.5,9,17,12,True,Would pay more for scheduled reports and Slack delivery.
+R00226,2026-05-27,Mid-market,Manager,US,37,136,120.32,9.1,7,5,4,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00227,2026-05-08,Enterprise,Analyst,US,16,277,408.52,10.0,10,10,2,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00228,2026-05-07,SMB,Engineer,DE,50,196,137.4,9.1,8,8,14,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00229,2026-03-09,SMB,Engineer,US,14,170,97.64,6.3,6,11,6,True,Would pay more for scheduled reports and Slack delivery.
+R00230,2026-06-08,Startup,Executive,US,39,159,137.82,6.3,4,7,10,True,The onboarding flow was smooth but the export step felt slow.
+R00231,2026-05-22,SMB,Executive,UK,41,25,326.87,7.7,3,8,7,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00232,2026-01-09,SMB,Executive,UK,44,97,291.95,8.9,8,4,12,True,The template gallery saves me hours every single week.
+R00233,2026-03-10,Enterprise,Executive,UK,52,84,142.01,9.5,7,12,3,True,Love the dashboard speed; charts render instantly on my laptop.
+R00234,2026-06-04,SMB,Engineer,US,36,221,431.7,7.8,5,12,9,True,The template gallery saves me hours every single week.
+R00235,2026-04-26,SMB,Manager,DE,53,270,379.81,10.0,10,8,9,True,Would pay more for scheduled reports and Slack delivery.
+R00236,2026-01-09,Enterprise,Director,DE,3,303,1179.55,6.5,5,10,11,False,"Sync with our warehouse failed twice this month, frustrating."
+R00237,2026-07-16,SMB,Manager,US,54,31,201.3,7.6,4,9,12,True,The template gallery saves me hours every single week.
+R00238,2026-03-12,SMB,Executive,US,34,147,261.38,6.4,6,11,14,True,Would pay more for scheduled reports and Slack delivery.
+R00239,2026-06-13,Enterprise,Manager,DE,36,45,628.64,9.4,8,8,12,True,Love the dashboard speed; charts render instantly on my laptop.
+R00240,2026-02-21,Startup,Engineer,BR,12,274,360.42,6.1,7,12,9,True,Too many clicks to share a report with my finance team.
+R00241,2026-01-21,Enterprise,Engineer,US,45,317,246.95,7.9,7,7,9,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00242,2026-07-05,Mid-market,Executive,US,31,161,362.04,9.4,8,10,6,True,Would pay more for scheduled reports and Slack delivery.
+R00243,2026-03-22,Startup,Engineer,US,18,269,758.49,10.0,10,16,10,True,Too many clicks to share a report with my finance team.
+R00244,2026-05-07,Startup,Manager,IN,45,282,111.69,10.0,9,9,13,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00245,2026-02-01,Startup,Analyst,UK,48,238,357.01,7.4,7,12,12,True,Colour palettes look professional in client presentations.
+R00246,2026-03-17,Enterprise,Director,IN,44,91,578.5,7.5,6,6,11,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00247,2026-06-06,Mid-market,Manager,IN,11,54,216.74,9.8,10,4,2,True,Love the dashboard speed; charts render instantly on my laptop.
+R00248,2026-02-22,Mid-market,Director,CA,17,158,808.13,9.2,9,17,5,True,The template gallery saves me hours every single week.
+R00249,2026-04-15,Startup,Director,CA,20,139,244.62,8.5,8,15,1,True,The template gallery saves me hours every single week.
+R00250,2026-05-09,SMB,Engineer,US,33,16,331.72,8.9,7,9,7,False,Too many clicks to share a report with my finance team.
+R00251,2026-07-17,Enterprise,Executive,BR,5,124,161.4,7.1,6,7,1,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00252,2026-06-26,Startup,Director,BR,3,242,141.6,9.7,10,5,8,True,The onboarding flow was smooth but the export step felt slow.
+R00253,2026-05-31,Mid-market,Manager,US,8,121,151.29,6.9,3,12,7,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00254,2026-05-18,Startup,Analyst,BR,18,50,169.56,7.0,7,21,11,True,The onboarding flow was smooth but the export step felt slow.
+R00255,2026-06-08,Mid-market,Executive,BR,51,184,515.05,7.6,7,11,10,True,The onboarding flow was smooth but the export step felt slow.
+R00256,2026-03-03,Mid-market,Analyst,US,50,273,79.21,5.6,3,11,5,True,Support answered within an hour and solved my import problem.
+R00257,2026-07-18,SMB,Analyst,CA,24,83,74.99,7.6,6,5,8,False,Too many clicks to share a report with my finance team.
+R00258,2026-07-30,SMB,Analyst,IN,20,194,464.44,9.0,8,8,2,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00259,2026-03-05,Mid-market,Director,IN,59,115,328.76,8.7,7,15,1,True,The onboarding flow was smooth but the export step felt slow.
+R00260,2026-04-15,SMB,Engineer,US,10,123,511.46,10.0,6,10,13,False,Would pay more for scheduled reports and Slack delivery.
+R00261,2026-07-03,Startup,Manager,DE,13,127,257.71,7.8,6,10,13,True,The template gallery saves me hours every single week.
+R00262,2026-07-14,Mid-market,Engineer,US,2,48,143.36,8.1,8,8,12,True,Too many clicks to share a report with my finance team.
+R00263,2026-03-04,Startup,Engineer,IN,30,42,81.37,7.6,4,6,5,False,Support answered within an hour and solved my import problem.
+R00264,2026-07-16,Startup,Analyst,IN,58,123,373.65,9.6,8,6,11,True,Would pay more for scheduled reports and Slack delivery.
+R00265,2026-01-09,Mid-market,Engineer,UK,38,6,280.47,7.8,8,10,7,False,"Sync with our warehouse failed twice this month, frustrating."
+R00266,2026-06-02,Startup,Analyst,US,30,225,511.82,10.0,8,12,4,True,Colour palettes look professional in client presentations.
+R00267,2026-05-31,Mid-market,Engineer,IN,60,297,788.13,9.7,9,14,8,True,Would pay more for scheduled reports and Slack delivery.
+R00268,2026-04-01,Startup,Engineer,US,51,20,274.81,6.6,4,9,1,True,Support answered within an hour and solved my import problem.
+R00269,2026-05-21,SMB,Manager,CA,17,221,297.59,7.0,7,11,6,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00270,2026-02-20,SMB,Executive,US,24,312,237.8,6.7,6,10,2,True,Colour palettes look professional in client presentations.
+R00271,2026-01-09,Mid-market,Director,UK,45,8,230.04,7.5,4,8,5,True,Too many clicks to share a report with my finance team.
+R00272,2026-07-20,Enterprise,Director,BR,47,126,427.09,7.6,8,13,6,True,Would pay more for scheduled reports and Slack delivery.
+R00273,2026-01-18,Startup,Engineer,AU,21,254,520.63,7.1,7,12,10,True,"Sync with our warehouse failed twice this month, frustrating."
+R00274,2026-07-02,SMB,Manager,US,9,300,89.17,7.6,8,13,6,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00275,2026-05-15,SMB,Director,US,7,178,324.62,8.2,7,8,4,True,Colour palettes look professional in client presentations.
+R00276,2026-05-17,Startup,Manager,IN,11,6,368.45,7.9,6,8,8,True,Colour palettes look professional in client presentations.
+R00277,2026-07-21,Mid-market,Manager,CA,40,222,106.98,9.9,9,11,4,False,Would pay more for scheduled reports and Slack delivery.
+R00278,2026-05-20,SMB,Manager,US,33,63,49.18,6.3,5,8,14,True,"Sync with our warehouse failed twice this month, frustrating."
+R00279,2026-06-30,Startup,Manager,UK,29,178,235.95,6.4,6,7,3,True,The onboarding flow was smooth but the export step felt slow.
+R00280,2026-07-16,SMB,Executive,US,12,120,569.82,7.4,6,7,7,True,Support answered within an hour and solved my import problem.
+R00281,2026-06-09,Startup,Manager,IN,49,75,321.57,6.5,4,6,6,True,Too many clicks to share a report with my finance team.
+R00282,2026-06-14,Mid-market,Engineer,UK,23,256,663.52,7.3,8,11,2,True,Love the dashboard speed; charts render instantly on my laptop.
+R00283,2026-07-29,Startup,Director,US,29,106,100.77,8.5,7,8,5,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00284,2026-02-18,Mid-market,Director,US,29,300,88.33,9.3,8,9,6,True,"Sync with our warehouse failed twice this month, frustrating."
+R00285,2026-04-05,Mid-market,Analyst,US,14,31,380.09,7.9,7,14,14,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00286,2026-03-04,Startup,Manager,US,19,53,121.76,5.1,2,9,11,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00287,2026-02-08,SMB,Executive,US,20,3,324.36,6.4,7,11,10,True,Love the dashboard speed; charts render instantly on my laptop.
+R00288,2026-04-06,Mid-market,Analyst,BR,24,11,494.88,6.8,5,6,7,False,Would pay more for scheduled reports and Slack delivery.
+R00289,2026-02-21,Mid-market,Executive,US,7,51,221.76,9.2,9,8,1,True,Too many clicks to share a report with my finance team.
+R00290,2026-07-26,SMB,Executive,IN,53,318,279.89,8.7,7,9,5,False,Colour palettes look professional in client presentations.
+R00291,2026-03-14,SMB,Manager,UK,38,52,164.78,8.1,9,10,6,True,Colour palettes look professional in client presentations.
+R00292,2026-03-02,Startup,Manager,US,16,115,120.97,7.4,7,12,1,True,Colour palettes look professional in client presentations.
+R00293,2026-06-18,Startup,Analyst,CA,31,14,374.3,8.7,8,13,5,False,Support answered within an hour and solved my import problem.
+R00294,2026-07-01,SMB,Director,US,11,158,501.98,8.5,9,16,10,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00295,2026-06-16,Startup,Analyst,DE,28,90,196.78,8.1,7,15,4,True,The onboarding flow was smooth but the export step felt slow.
+R00296,2026-02-12,Startup,Executive,BR,55,98,472.96,9.6,10,8,2,True,Love the dashboard speed; charts render instantly on my laptop.
+R00297,2026-02-25,Startup,Director,US,26,285,442.54,7.9,7,13,14,True,Would pay more for scheduled reports and Slack delivery.
+R00298,2026-05-24,Startup,Analyst,BR,22,170,567.42,6.5,3,12,5,True,Support answered within an hour and solved my import problem.
+R00299,2026-04-14,SMB,Executive,BR,9,242,126.06,7.0,5,17,4,False,Colour palettes look professional in client presentations.
+R00300,2026-07-12,Mid-market,Manager,UK,41,162,662.58,7.2,2,8,12,False,Support answered within an hour and solved my import problem.
+R00301,2026-02-03,Mid-market,Executive,DE,48,120,212.86,9.0,7,13,2,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00302,2026-04-24,Mid-market,Executive,CA,43,210,373.42,10.0,9,14,14,True,The template gallery saves me hours every single week.
+R00303,2026-01-12,Mid-market,Engineer,DE,40,162,242.31,8.1,9,10,5,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00304,2026-01-28,Enterprise,Analyst,AU,37,103,234.82,8.5,8,6,8,True,Love the dashboard speed; charts render instantly on my laptop.
+R00305,2026-05-10,SMB,Engineer,US,60,153,642.38,9.0,10,13,4,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00306,2026-04-22,SMB,Engineer,BR,53,307,151.89,6.9,1,8,7,False,Too many clicks to share a report with my finance team.
+R00307,2026-02-23,SMB,Manager,UK,21,229,236.52,8.2,6,8,9,True,Support answered within an hour and solved my import problem.
+R00308,2026-06-04,Startup,Director,UK,45,225,63.68,7.5,6,6,4,True,Love the dashboard speed; charts render instantly on my laptop.
+R00309,2026-03-06,SMB,Director,IN,42,82,95.74,7.0,6,9,1,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00310,2026-01-30,Mid-market,Analyst,IN,9,278,183.39,10.0,7,11,2,True,The template gallery saves me hours every single week.
+R00311,2026-01-08,Mid-market,Manager,AU,60,288,216.65,7.2,7,7,10,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00312,2026-02-26,Enterprise,Director,IN,49,316,68.34,5.6,5,5,12,True,Support answered within an hour and solved my import problem.
+R00313,2026-04-24,Enterprise,Manager,US,34,67,277.19,9.7,10,8,6,True,Love the dashboard speed; charts render instantly on my laptop.
+R00314,2026-06-05,Mid-market,Executive,IN,2,298,501.81,10.0,7,9,5,True,Love the dashboard speed; charts render instantly on my laptop.
+R00315,2026-03-25,SMB,Director,UK,8,87,81.66,5.7,3,11,12,False,Colour palettes look professional in client presentations.
+R00316,2026-01-21,Startup,Director,BR,14,131,248.58,8.4,9,11,11,True,Colour palettes look professional in client presentations.
+R00317,2026-02-05,SMB,Analyst,AU,27,248,300.31,5.2,4,7,2,True,Too many clicks to share a report with my finance team.
+R00318,2026-05-11,SMB,Analyst,IN,57,244,1009.83,6.6,4,10,5,True,Love the dashboard speed; charts render instantly on my laptop.
+R00319,2026-02-15,SMB,Executive,US,35,233,208.16,7.5,6,11,14,True,The onboarding flow was smooth but the export step felt slow.
+R00320,2026-03-19,SMB,Engineer,US,35,244,694.22,9.7,10,10,10,False,Would pay more for scheduled reports and Slack delivery.
+R00321,2026-01-09,Mid-market,Director,US,5,167,252.87,9.3,6,7,10,True,Colour palettes look professional in client presentations.
+R00322,2026-04-06,SMB,Manager,DE,23,311,86.26,6.9,8,9,1,True,Too many clicks to share a report with my finance team.
+R00323,2026-06-29,SMB,Director,US,44,104,482.74,8.2,5,8,6,True,"Sync with our warehouse failed twice this month, frustrating."
+R00324,2026-05-16,Startup,Analyst,DE,56,110,369.7,8.1,6,16,1,True,The onboarding flow was smooth but the export step felt slow.
+R00325,2026-06-21,SMB,Executive,US,45,240,175.14,8.0,5,9,13,True,Too many clicks to share a report with my finance team.
+R00326,2026-02-23,Startup,Engineer,UK,56,270,289.48,8.8,8,7,2,True,The onboarding flow was smooth but the export step felt slow.
+R00327,2026-01-05,SMB,Analyst,DE,56,185,440.95,7.8,7,12,6,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00328,2026-07-28,Startup,Director,CA,18,39,319.52,5.1,3,11,11,False,Would pay more for scheduled reports and Slack delivery.
+R00329,2026-04-12,SMB,Director,US,29,167,146.95,8.6,8,7,9,True,Colour palettes look professional in client presentations.
+R00330,2026-07-26,Mid-market,Engineer,IN,45,149,991.19,8.5,8,13,5,True,Love the dashboard speed; charts render instantly on my laptop.
+R00331,2026-06-13,SMB,Engineer,DE,52,80,868.37,6.6,6,13,9,False,The onboarding flow was smooth but the export step felt slow.
+R00332,2026-06-20,SMB,Executive,US,34,263,104.02,6.5,5,9,4,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00333,2026-05-23,Enterprise,Engineer,BR,43,141,440.6,7.1,4,8,10,True,Support answered within an hour and solved my import problem.
+R00334,2026-06-26,SMB,Manager,AU,12,201,58.71,6.7,4,7,10,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00335,2026-01-10,SMB,Analyst,IN,46,56,525.08,7.6,7,8,5,True,The template gallery saves me hours every single week.
+R00336,2026-01-05,Enterprise,Manager,BR,11,18,362.95,9.3,10,12,5,True,Love the dashboard speed; charts render instantly on my laptop.
+R00337,2026-07-08,SMB,Executive,DE,59,37,100.09,10.0,10,5,6,True,Love the dashboard speed; charts render instantly on my laptop.
+R00338,2026-04-23,Mid-market,Director,BR,15,262,139.37,9.2,9,15,6,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00339,2026-05-05,Mid-market,Director,US,56,235,50.99,8.5,8,9,7,False,The onboarding flow was smooth but the export step felt slow.
+R00340,2026-01-13,SMB,Director,US,21,310,100.75,5.2,2,6,7,False,Love the dashboard speed; charts render instantly on my laptop.
+R00341,2026-01-15,SMB,Analyst,IN,7,296,306.76,6.1,1,13,14,False,Would pay more for scheduled reports and Slack delivery.
+R00342,2026-07-24,Startup,Manager,UK,23,15,573.89,7.0,7,11,14,True,Too many clicks to share a report with my finance team.
+R00343,2026-01-26,Startup,Manager,CA,51,208,891.5,9.4,10,11,7,True,The template gallery saves me hours every single week.
+R00344,2026-01-21,Startup,Manager,US,25,178,183.48,6.9,6,9,8,True,The template gallery saves me hours every single week.
+R00345,2026-05-30,Mid-market,Engineer,IN,50,28,346.96,9.5,8,8,3,True,Love the dashboard speed; charts render instantly on my laptop.
+R00346,2026-02-06,SMB,Executive,US,10,117,219.92,7.1,6,6,7,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00347,2026-07-03,Enterprise,Engineer,US,11,99,221.85,7.6,7,10,2,True,Would pay more for scheduled reports and Slack delivery.
+R00348,2026-01-29,Startup,Executive,US,5,230,465.6,8.8,7,7,13,True,Colour palettes look professional in client presentations.
+R00349,2026-06-25,SMB,Engineer,DE,32,137,156.28,9.1,10,10,13,True,Support answered within an hour and solved my import problem.
+R00350,2026-04-28,Startup,Engineer,CA,7,213,166.66,8.6,7,11,4,True,The onboarding flow was smooth but the export step felt slow.
+R00351,2026-01-24,SMB,Director,US,4,223,140.42,7.6,5,9,2,True,Colour palettes look professional in client presentations.
+R00352,2026-05-03,Startup,Manager,US,51,31,381.81,5.3,6,10,4,False,The template gallery saves me hours every single week.
+R00353,2026-01-16,Startup,Executive,CA,60,145,342.72,9.4,8,14,2,True,The onboarding flow was smooth but the export step felt slow.
+R00354,2026-04-23,Startup,Engineer,US,54,209,553.33,8.3,8,5,14,True,"Sync with our warehouse failed twice this month, frustrating."
+R00355,2026-06-14,Startup,Executive,UK,53,260,200.29,8.4,8,21,8,False,The onboarding flow was smooth but the export step felt slow.
+R00356,2026-03-11,Startup,Manager,IN,25,262,284.18,4.4,2,14,4,False,Would pay more for scheduled reports and Slack delivery.
+R00357,2026-07-31,Mid-market,Analyst,UK,49,50,363.96,8.7,9,10,12,True,Would pay more for scheduled reports and Slack delivery.
+R00358,2026-05-04,Mid-market,Engineer,DE,27,83,294.08,9.0,10,10,2,True,The template gallery saves me hours every single week.
+R00359,2026-06-15,Mid-market,Manager,AU,13,300,167.49,6.9,7,8,10,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00360,2026-03-31,Mid-market,Executive,AU,27,72,414.38,10.0,10,10,4,False,"Sync with our warehouse failed twice this month, frustrating."
+R00361,2026-06-09,Startup,Director,IN,39,39,199.0,6.4,4,12,14,True,"Sync with our warehouse failed twice this month, frustrating."
+R00362,2026-06-05,Enterprise,Director,IN,28,240,286.75,8.6,7,10,12,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00363,2026-03-16,Mid-market,Director,US,57,104,630.69,10.0,9,5,4,False,Too many clicks to share a report with my finance team.
+R00364,2026-04-06,Mid-market,Director,DE,27,13,260.9,9.4,7,10,9,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00365,2026-03-06,Enterprise,Director,UK,13,302,558.36,7.9,6,10,8,True,The onboarding flow was smooth but the export step felt slow.
+R00366,2026-02-21,SMB,Manager,CA,34,283,256.19,10.0,9,10,13,True,The template gallery saves me hours every single week.
+R00367,2026-04-15,Startup,Director,CA,31,75,410.34,7.7,7,16,10,True,Love the dashboard speed; charts render instantly on my laptop.
+R00368,2026-03-24,SMB,Engineer,DE,3,3,198.93,8.7,6,9,12,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00369,2026-02-19,Mid-market,Analyst,US,45,194,165.51,9.5,8,7,7,True,Would pay more for scheduled reports and Slack delivery.
+R00370,2026-06-26,Startup,Executive,UK,21,202,156.69,5.3,4,8,3,False,Colour palettes look professional in client presentations.
+R00371,2026-05-07,SMB,Analyst,IN,27,196,40.54,9.1,8,4,3,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00372,2026-01-19,SMB,Executive,AU,44,105,127.72,6.9,5,13,13,True,"Sync with our warehouse failed twice this month, frustrating."
+R00373,2026-05-21,Enterprise,Executive,BR,38,139,139.56,6.0,5,8,10,True,Colour palettes look professional in client presentations.
+R00374,2026-05-06,Startup,Engineer,IN,39,308,167.02,6.4,6,11,9,True,Support answered within an hour and solved my import problem.
+R00375,2026-07-08,Enterprise,Engineer,US,59,185,260.81,7.2,6,10,11,False,Support answered within an hour and solved my import problem.
+R00376,2026-01-31,Startup,Manager,IN,51,117,79.44,5.5,5,11,3,True,"Sync with our warehouse failed twice this month, frustrating."
+R00377,2026-01-06,Enterprise,Director,US,5,41,395.15,6.7,6,8,2,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00378,2026-02-12,SMB,Analyst,BR,5,91,206.95,9.8,10,12,6,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00379,2026-04-21,SMB,Director,UK,38,222,218.84,6.0,5,8,7,True,Too many clicks to share a report with my finance team.
+R00380,2026-06-08,Mid-market,Director,IN,52,197,338.41,8.7,7,9,10,False,Love the dashboard speed; charts render instantly on my laptop.
+R00381,2026-02-17,Mid-market,Executive,CA,11,293,598.63,7.2,7,12,12,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00382,2026-03-30,Mid-market,Manager,AU,31,7,80.2,8.3,7,9,14,True,The onboarding flow was smooth but the export step felt slow.
+R00383,2026-07-26,Mid-market,Director,US,59,300,160.06,10.0,9,4,9,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00384,2026-03-28,SMB,Director,BR,59,89,173.71,6.7,4,12,10,False,Love the dashboard speed; charts render instantly on my laptop.
+R00385,2026-04-15,Startup,Executive,BR,59,50,159.91,7.5,6,11,11,True,Too many clicks to share a report with my finance team.
+R00386,2026-07-27,Mid-market,Engineer,DE,21,35,85.92,8.0,5,8,8,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00387,2026-03-15,Startup,Executive,DE,55,257,156.12,5.8,3,12,10,True,Support answered within an hour and solved my import problem.
+R00388,2026-04-09,SMB,Manager,DE,5,95,259.76,9.2,9,17,13,True,The onboarding flow was smooth but the export step felt slow.
+R00389,2026-02-12,Startup,Analyst,IN,24,199,264.77,10.0,7,7,2,True,Would pay more for scheduled reports and Slack delivery.
+R00390,2026-02-27,Startup,Engineer,US,31,238,290.0,8.4,9,5,13,True,The onboarding flow was smooth but the export step felt slow.
+R00391,2026-05-26,SMB,Engineer,DE,35,316,250.58,6.7,5,11,13,True,Colour palettes look professional in client presentations.
+R00392,2026-03-24,Startup,Analyst,US,25,252,563.66,8.2,7,12,8,True,The onboarding flow was smooth but the export step felt slow.
+R00393,2026-05-24,Mid-market,Executive,AU,51,136,165.42,8.3,7,5,8,True,The onboarding flow was smooth but the export step felt slow.
+R00394,2026-04-14,Startup,Manager,US,42,117,224.92,8.5,8,10,3,True,Colour palettes look professional in client presentations.
+R00395,2026-06-05,Enterprise,Analyst,UK,52,163,99.97,7.0,8,14,11,True,Love the dashboard speed; charts render instantly on my laptop.
+R00396,2026-07-24,Enterprise,Engineer,CA,28,200,166.5,6.9,5,9,7,False,Colour palettes look professional in client presentations.
+R00397,2026-03-20,Startup,Executive,US,25,118,93.19,6.6,5,11,4,True,The onboarding flow was smooth but the export step felt slow.
+R00398,2026-06-06,Startup,Engineer,BR,16,155,259.95,5.7,3,12,5,True,Colour palettes look professional in client presentations.
+R00399,2026-02-25,Enterprise,Director,IN,15,234,601.08,7.1,4,10,1,True,The onboarding flow was smooth but the export step felt slow.
+R00400,2026-04-06,SMB,Director,US,25,46,150.09,8.7,4,9,4,False,The template gallery saves me hours every single week.
+R00401,2026-03-27,Startup,Executive,IN,5,279,136.58,7.9,8,10,14,True,The template gallery saves me hours every single week.
+R00402,2026-06-08,Mid-market,Analyst,UK,56,277,20.36,8.0,7,12,3,False,Colour palettes look professional in client presentations.
+R00403,2026-05-09,Startup,Manager,UK,9,23,401.61,9.5,9,13,2,False,Love the dashboard speed; charts render instantly on my laptop.
+R00404,2026-06-12,SMB,Director,DE,50,301,526.09,6.1,5,10,6,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00405,2026-02-10,SMB,Analyst,DE,43,272,451.27,7.4,5,7,2,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00406,2026-03-19,Startup,Manager,US,20,269,298.1,9.5,10,6,8,True,The template gallery saves me hours every single week.
+R00407,2026-05-29,Mid-market,Analyst,US,53,102,173.58,7.4,5,13,2,True,The onboarding flow was smooth but the export step felt slow.
+R00408,2026-08-02,Startup,Executive,IN,53,102,1229.28,7.2,7,12,1,False,"Sync with our warehouse failed twice this month, frustrating."
+R00409,2026-01-16,Enterprise,Director,US,58,123,207.97,9.6,9,9,4,True,Too many clicks to share a report with my finance team.
+R00410,2026-01-22,Startup,Engineer,UK,44,135,321.12,7.5,2,6,1,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00411,2026-02-15,Startup,Manager,US,19,5,414.97,8.3,7,11,6,True,"Sync with our warehouse failed twice this month, frustrating."
+R00412,2026-03-22,SMB,Director,US,32,200,374.52,10.0,8,12,10,True,Too many clicks to share a report with my finance team.
+R00413,2026-02-12,Enterprise,Manager,CA,18,219,243.58,7.1,6,7,3,True,Would pay more for scheduled reports and Slack delivery.
+R00414,2026-04-19,SMB,Analyst,BR,47,305,207.15,10.0,9,7,10,True,"Sync with our warehouse failed twice this month, frustrating."
+R00415,2026-02-25,SMB,Analyst,CA,46,230,334.83,6.9,6,4,12,False,Would pay more for scheduled reports and Slack delivery.
+R00416,2026-01-05,SMB,Analyst,US,23,112,69.57,7.8,7,10,7,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00417,2026-08-01,SMB,Executive,US,9,79,272.58,8.5,8,5,4,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00418,2026-04-23,Startup,Manager,IN,58,96,163.99,8.4,5,5,5,True,Would pay more for scheduled reports and Slack delivery.
+R00419,2026-02-22,Mid-market,Analyst,UK,41,250,352.88,8.3,8,14,1,True,Too many clicks to share a report with my finance team.
+R00420,2026-02-03,Startup,Analyst,CA,42,54,205.99,8.3,8,11,14,True,Colour palettes look professional in client presentations.
+R00421,2026-03-10,Mid-market,Executive,BR,14,209,148.32,7.6,6,18,6,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00422,2026-04-04,Startup,Manager,US,40,50,54.52,6.7,5,9,5,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00423,2026-04-07,Startup,Analyst,CA,46,202,85.51,8.2,9,6,11,False,Too many clicks to share a report with my finance team.
+R00424,2026-06-21,Mid-market,Manager,UK,60,87,299.25,8.2,7,8,10,False,Colour palettes look professional in client presentations.
+R00425,2026-04-24,Enterprise,Engineer,IN,16,15,149.38,9.4,10,6,9,True,"Sync with our warehouse failed twice this month, frustrating."
+R00426,2026-02-08,Startup,Director,DE,29,17,300.49,7.0,5,12,12,True,Colour palettes look professional in client presentations.
+R00427,2026-01-18,Startup,Engineer,UK,32,53,141.37,8.8,8,15,12,False,Would pay more for scheduled reports and Slack delivery.
+R00428,2026-01-08,Enterprise,Manager,DE,44,154,73.49,6.1,3,6,7,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00429,2026-03-01,Mid-market,Executive,AU,17,11,199.25,9.1,5,4,5,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00430,2026-01-20,SMB,Executive,AU,28,103,448.67,5.9,3,10,10,True,Too many clicks to share a report with my finance team.
+R00431,2026-01-24,SMB,Director,US,1,304,172.19,7.6,8,18,13,True,Support answered within an hour and solved my import problem.
+R00432,2026-03-26,SMB,Engineer,IN,46,85,484.49,9.5,7,6,7,False,Colour palettes look professional in client presentations.
+R00433,2026-07-19,Startup,Manager,US,58,152,271.58,6.9,5,6,5,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00434,2026-02-08,SMB,Manager,US,1,154,269.46,8.1,6,12,4,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00435,2026-07-07,Mid-market,Director,BR,39,124,143.4,8.6,9,12,6,False,Would pay more for scheduled reports and Slack delivery.
+R00436,2026-06-12,Mid-market,Manager,BR,3,130,113.77,8.3,6,5,4,True,Colour palettes look professional in client presentations.
+R00437,2026-04-02,SMB,Manager,CA,1,83,198.08,6.8,5,7,14,True,Love the dashboard speed; charts render instantly on my laptop.
+R00438,2026-05-10,Startup,Director,US,13,63,149.75,6.9,6,13,7,True,"Sync with our warehouse failed twice this month, frustrating."
+R00439,2026-03-21,Mid-market,Analyst,CA,59,213,268.87,8.0,9,10,1,True,Too many clicks to share a report with my finance team.
+R00440,2026-06-26,SMB,Manager,IN,26,35,156.35,8.8,6,6,3,True,The onboarding flow was smooth but the export step felt slow.
+R00441,2026-01-09,Mid-market,Engineer,UK,13,187,486.56,7.5,5,7,6,True,The template gallery saves me hours every single week.
+R00442,2026-04-06,SMB,Manager,IN,9,58,424.37,7.9,6,8,1,False,"Sync with our warehouse failed twice this month, frustrating."
+R00443,2026-04-03,Enterprise,Engineer,IN,54,269,135.37,6.3,4,12,7,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00444,2026-01-28,Mid-market,Engineer,CA,9,148,136.77,9.8,9,11,8,False,Would pay more for scheduled reports and Slack delivery.
+R00445,2026-03-11,Mid-market,Executive,AU,8,245,306.22,8.7,7,10,7,True,The template gallery saves me hours every single week.
+R00446,2026-05-20,Startup,Engineer,US,8,151,129.71,5.7,5,7,12,True,"Sync with our warehouse failed twice this month, frustrating."
+R00447,2026-04-17,Mid-market,Engineer,CA,43,149,160.94,6.9,7,14,2,True,Love the dashboard speed; charts render instantly on my laptop.
+R00448,2026-05-08,Mid-market,Analyst,US,52,13,450.44,10.0,9,14,11,True,The onboarding flow was smooth but the export step felt slow.
+R00449,2026-05-02,Mid-market,Director,BR,18,167,351.59,9.8,10,16,13,False,The template gallery saves me hours every single week.
+R00450,2026-07-26,Mid-market,Director,DE,38,71,100.77,7.8,6,6,11,True,Colour palettes look professional in client presentations.
+R00451,2026-02-25,SMB,Manager,US,54,171,128.0,8.6,9,11,14,True,Love the dashboard speed; charts render instantly on my laptop.
+R00452,2026-06-27,Enterprise,Director,IN,48,316,69.27,8.5,7,8,13,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00453,2026-07-23,SMB,Manager,UK,23,262,119.34,7.5,6,8,5,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00454,2026-01-14,Mid-market,Engineer,AU,21,50,407.51,9.0,4,10,6,False,Would pay more for scheduled reports and Slack delivery.
+R00455,2026-06-19,SMB,Executive,US,2,43,262.47,6.1,2,11,8,True,Support answered within an hour and solved my import problem.
+R00456,2026-07-15,Enterprise,Director,UK,40,159,967.55,7.9,6,13,2,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00457,2026-07-02,SMB,Analyst,US,51,23,244.27,7.3,5,8,10,True,Too many clicks to share a report with my finance team.
+R00458,2026-01-21,Mid-market,Manager,US,39,211,267.45,8.3,5,8,6,True,Colour palettes look professional in client presentations.
+R00459,2026-07-13,Enterprise,Analyst,US,11,27,576.56,6.6,4,11,13,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00460,2026-03-26,Mid-market,Executive,AU,25,229,119.76,9.0,6,12,4,False,"Sync with our warehouse failed twice this month, frustrating."
+R00461,2026-06-09,Startup,Manager,US,4,31,447.79,6.9,5,14,14,True,Would pay more for scheduled reports and Slack delivery.
+R00462,2026-05-29,Startup,Analyst,IN,52,290,847.69,7.9,9,10,2,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00463,2026-03-14,SMB,Analyst,IN,5,166,424.84,8.4,7,10,13,True,The template gallery saves me hours every single week.
+R00464,2026-06-07,Startup,Manager,IN,17,309,268.1,8.8,6,5,3,False,Would pay more for scheduled reports and Slack delivery.
+R00465,2026-07-15,Mid-market,Engineer,DE,60,163,119.21,5.1,5,14,1,False,Support answered within an hour and solved my import problem.
+R00466,2026-02-03,Mid-market,Analyst,UK,4,275,140.07,8.2,5,15,11,True,Support answered within an hour and solved my import problem.
+R00467,2026-05-15,SMB,Director,IN,46,191,120.82,9.6,9,8,1,True,The template gallery saves me hours every single week.
+R00468,2026-05-06,SMB,Analyst,US,27,302,429.56,8.3,5,9,2,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00469,2026-02-05,Startup,Manager,IN,1,50,105.91,7.0,5,11,1,True,The onboarding flow was smooth but the export step felt slow.
+R00470,2026-03-13,Startup,Director,US,35,7,112.57,7.0,5,12,13,True,The template gallery saves me hours every single week.
+R00471,2026-07-19,Mid-market,Director,CA,9,36,389.51,9.1,5,15,9,True,The onboarding flow was smooth but the export step felt slow.
+R00472,2026-07-15,Enterprise,Analyst,DE,26,163,91.88,8.0,6,12,12,True,Would pay more for scheduled reports and Slack delivery.
+R00473,2026-03-12,Enterprise,Analyst,US,3,79,315.55,8.3,9,10,13,True,Colour palettes look professional in client presentations.
+R00474,2026-06-27,SMB,Engineer,US,45,311,230.49,9.9,7,14,3,True,The onboarding flow was smooth but the export step felt slow.
+R00475,2026-02-16,Mid-market,Manager,UK,52,146,122.25,9.2,7,15,6,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00476,2026-07-14,Mid-market,Manager,CA,30,83,98.57,9.7,9,9,14,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00477,2026-04-14,Mid-market,Analyst,UK,31,256,79.5,8.9,7,11,5,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00478,2026-06-30,Enterprise,Director,US,47,268,258.84,7.2,5,12,10,True,The onboarding flow was smooth but the export step felt slow.
+R00479,2026-01-18,Enterprise,Director,DE,11,56,109.85,9.3,6,11,7,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00480,2026-07-26,Startup,Executive,US,3,70,128.34,7.7,8,8,13,True,"Sync with our warehouse failed twice this month, frustrating."
+R00481,2026-04-19,SMB,Manager,UK,12,181,1091.85,6.3,7,13,12,True,"Sync with our warehouse failed twice this month, frustrating."
+R00482,2026-07-07,SMB,Manager,BR,53,156,846.18,8.2,9,16,7,True,"Sync with our warehouse failed twice this month, frustrating."
+R00483,2026-02-03,Mid-market,Engineer,US,39,270,137.94,10.0,7,5,12,True,Would pay more for scheduled reports and Slack delivery.
+R00484,2026-03-12,Enterprise,Manager,IN,46,153,531.97,9.1,8,15,14,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00485,2026-02-09,Enterprise,Analyst,AU,25,128,166.22,9.5,6,12,14,True,"Sync with our warehouse failed twice this month, frustrating."
+R00486,2026-05-07,SMB,Executive,US,8,274,97.21,8.4,9,7,4,True,The template gallery saves me hours every single week.
+R00487,2026-05-13,Enterprise,Analyst,US,34,48,63.51,8.0,6,12,11,True,The onboarding flow was smooth but the export step felt slow.
+R00488,2026-05-21,Startup,Director,US,49,291,143.46,7.5,8,4,6,False,The onboarding flow was smooth but the export step felt slow.
+R00489,2026-03-24,Startup,Manager,DE,31,84,188.57,9.1,9,16,2,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00490,2026-06-30,Mid-market,Director,US,43,1,98.55,8.7,6,10,4,False,Colour palettes look professional in client presentations.
+R00491,2026-04-16,Mid-market,Executive,IN,19,175,128.43,7.9,6,12,7,True,The template gallery saves me hours every single week.
+R00492,2026-06-25,Mid-market,Director,US,23,13,531.18,6.9,9,11,14,True,"Sync with our warehouse failed twice this month, frustrating."
+R00493,2026-02-12,Mid-market,Director,UK,46,246,131.33,6.7,5,13,7,False,Would pay more for scheduled reports and Slack delivery.
+R00494,2026-04-29,Mid-market,Manager,US,4,240,168.17,10.0,10,12,4,True,Love the dashboard speed; charts render instantly on my laptop.
+R00495,2026-04-14,Mid-market,Manager,US,9,302,127.03,6.6,5,8,4,False,Too many clicks to share a report with my finance team.
+R00496,2026-01-17,Mid-market,Engineer,UK,56,207,513.48,10.0,9,8,4,True,"Sync with our warehouse failed twice this month, frustrating."
+R00497,2026-05-04,Startup,Analyst,CA,11,139,159.83,8.0,8,7,3,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00498,2026-01-12,Enterprise,Manager,UK,15,252,671.79,8.5,9,11,6,True,The onboarding flow was smooth but the export step felt slow.
+R00499,2026-07-23,SMB,Analyst,DE,47,223,516.9,6.5,6,9,5,False,Too many clicks to share a report with my finance team.
+R00500,2026-05-19,Startup,Executive,DE,40,123,165.17,9.5,10,9,5,True,"Sync with our warehouse failed twice this month, frustrating."
+R00501,2026-06-28,Startup,Manager,IN,16,156,144.19,6.8,6,12,8,False,Too many clicks to share a report with my finance team.
+R00502,2026-05-09,Startup,Manager,UK,2,143,166.29,10.0,7,11,1,True,"Sync with our warehouse failed twice this month, frustrating."
+R00503,2026-05-08,Startup,Executive,UK,40,305,292.25,8.9,7,11,12,True,Would pay more for scheduled reports and Slack delivery.
+R00504,2026-06-15,Startup,Executive,US,43,192,141.66,8.1,7,6,5,False,The onboarding flow was smooth but the export step felt slow.
+R00505,2026-03-08,SMB,Analyst,BR,25,175,493.56,7.0,4,9,13,True,The onboarding flow was smooth but the export step felt slow.
+R00506,2026-03-25,Startup,Executive,US,19,30,350.2,7.7,5,11,6,True,"Sync with our warehouse failed twice this month, frustrating."
+R00507,2026-05-24,Startup,Executive,BR,44,270,352.67,7.1,6,10,9,False,Love the dashboard speed; charts render instantly on my laptop.
+R00508,2026-01-13,Startup,Director,CA,22,301,159.0,8.7,8,11,10,True,"Sync with our warehouse failed twice this month, frustrating."
+R00509,2026-04-16,SMB,Manager,AU,35,304,296.29,7.4,5,11,1,True,Would pay more for scheduled reports and Slack delivery.
+R00510,2026-03-15,Startup,Manager,IN,57,64,210.92,7.3,5,7,1,True,Colour palettes look professional in client presentations.
+R00511,2026-06-04,Enterprise,Director,AU,39,78,217.09,7.1,8,9,6,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00512,2026-07-17,Mid-market,Executive,DE,48,211,302.54,7.5,7,14,6,False,Love the dashboard speed; charts render instantly on my laptop.
+R00513,2026-07-16,SMB,Engineer,US,18,231,212.9,6.7,7,15,2,False,The onboarding flow was smooth but the export step felt slow.
+R00514,2026-07-11,Startup,Executive,US,50,103,71.16,8.6,10,5,2,False,Too many clicks to share a report with my finance team.
+R00515,2026-07-23,SMB,Executive,IN,58,47,345.88,4.3,2,8,11,False,Too many clicks to share a report with my finance team.
+R00516,2026-01-24,Startup,Manager,IN,18,33,222.26,8.5,9,15,4,True,Love the dashboard speed; charts render instantly on my laptop.
+R00517,2026-06-26,SMB,Analyst,US,57,247,637.21,6.5,5,13,13,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00518,2026-07-11,Startup,Executive,UK,1,182,733.12,5.7,3,10,6,False,Love the dashboard speed; charts render instantly on my laptop.
+R00519,2026-04-17,Mid-market,Manager,BR,18,296,222.81,6.7,5,13,8,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00520,2026-02-21,Startup,Director,BR,32,12,220.14,8.1,8,8,10,True,Colour palettes look professional in client presentations.
+R00521,2026-05-30,Mid-market,Analyst,DE,44,20,49.59,8.3,8,10,11,True,Would pay more for scheduled reports and Slack delivery.
+R00522,2026-06-10,Enterprise,Director,DE,31,253,258.77,9.1,9,12,5,True,Colour palettes look professional in client presentations.
+R00523,2026-02-12,Enterprise,Analyst,US,42,116,391.7,8.8,7,6,3,True,The onboarding flow was smooth but the export step felt slow.
+R00524,2026-01-31,Enterprise,Analyst,AU,30,201,107.81,9.2,7,10,2,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00525,2026-02-05,SMB,Manager,UK,29,193,286.11,5.8,6,8,12,True,The template gallery saves me hours every single week.
+R00526,2026-06-20,Enterprise,Analyst,UK,25,54,59.3,7.5,8,12,12,True,The template gallery saves me hours every single week.
+R00527,2026-03-07,Enterprise,Analyst,BR,49,285,908.34,9.3,9,7,9,True,The onboarding flow was smooth but the export step felt slow.
+R00528,2026-04-15,Startup,Executive,IN,27,285,266.15,6.7,4,8,14,True,Would pay more for scheduled reports and Slack delivery.
+R00529,2026-01-28,Startup,Analyst,UK,5,74,233.02,7.9,7,8,3,False,"Sync with our warehouse failed twice this month, frustrating."
+R00530,2026-01-08,Startup,Manager,US,59,247,200.03,6.0,5,11,6,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00531,2026-07-06,Startup,Manager,IN,54,202,555.07,6.5,6,6,5,True,Too many clicks to share a report with my finance team.
+R00532,2026-03-25,Startup,Manager,UK,60,2,122.25,7.1,6,12,13,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00533,2026-04-01,SMB,Engineer,IN,49,115,265.5,10.0,9,7,11,True,Support answered within an hour and solved my import problem.
+R00534,2026-02-24,Enterprise,Manager,UK,40,9,130.61,8.2,6,13,11,False,Would pay more for scheduled reports and Slack delivery.
+R00535,2026-06-23,SMB,Manager,IN,12,192,314.44,10.0,10,8,13,False,Would pay more for scheduled reports and Slack delivery.
+R00536,2026-06-29,Mid-market,Executive,UK,5,85,296.64,10.0,10,9,8,False,The onboarding flow was smooth but the export step felt slow.
+R00537,2026-02-16,Startup,Analyst,UK,5,249,368.38,10.0,8,8,12,False,Too many clicks to share a report with my finance team.
+R00538,2026-01-19,Enterprise,Executive,UK,24,226,137.86,7.3,7,17,2,True,The onboarding flow was smooth but the export step felt slow.
+R00539,2026-02-27,Enterprise,Manager,DE,26,297,828.68,9.2,8,11,3,True,Would pay more for scheduled reports and Slack delivery.
+R00540,2026-06-12,Startup,Executive,CA,7,227,254.78,5.7,8,9,5,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00541,2026-04-28,SMB,Manager,AU,55,56,226.51,7.4,3,5,9,False,Support answered within an hour and solved my import problem.
+R00542,2026-02-10,Enterprise,Director,DE,4,252,154.51,6.0,4,5,8,True,The onboarding flow was smooth but the export step felt slow.
+R00543,2026-03-18,Mid-market,Engineer,UK,17,197,167.38,10.0,10,11,4,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00544,2026-04-11,Enterprise,Manager,DE,54,253,205.47,7.9,7,10,13,True,The onboarding flow was smooth but the export step felt slow.
+R00545,2026-06-11,Startup,Manager,IN,1,301,319.15,6.5,6,13,4,True,"Sync with our warehouse failed twice this month, frustrating."
+R00546,2026-02-02,Startup,Executive,US,40,138,324.22,9.3,6,8,8,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00547,2026-07-08,Mid-market,Manager,AU,28,247,133.57,7.7,4,6,7,False,Too many clicks to share a report with my finance team.
+R00548,2026-05-06,Startup,Executive,BR,48,251,42.27,5.9,6,12,13,True,Too many clicks to share a report with my finance team.
+R00549,2026-05-29,Startup,Manager,BR,56,275,192.61,5.4,5,14,3,False,The template gallery saves me hours every single week.
+R00550,2026-02-14,SMB,Director,DE,25,114,251.57,7.6,9,11,9,True,Colour palettes look professional in client presentations.
+R00551,2026-02-15,SMB,Analyst,US,24,30,231.84,6.1,7,16,9,True,Would pay more for scheduled reports and Slack delivery.
+R00552,2026-04-11,Mid-market,Director,IN,60,151,341.08,9.4,7,6,2,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00553,2026-04-05,Startup,Engineer,CA,31,270,93.69,7.8,6,8,13,False,Support answered within an hour and solved my import problem.
+R00554,2026-03-05,Startup,Engineer,US,12,294,198.26,7.1,5,6,2,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00555,2026-06-11,SMB,Manager,CA,54,61,472.9,7.5,6,9,3,True,The template gallery saves me hours every single week.
+R00556,2026-07-14,SMB,Analyst,US,16,217,197.3,8.5,6,12,11,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00557,2026-02-06,Startup,Analyst,US,29,48,353.1,8.8,7,13,9,True,The onboarding flow was smooth but the export step felt slow.
+R00558,2026-06-04,Mid-market,Engineer,US,55,186,109.19,9.0,9,12,4,True,"Sync with our warehouse failed twice this month, frustrating."
+R00559,2026-07-18,Enterprise,Manager,AU,50,310,124.06,9.2,9,8,14,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00560,2026-01-17,Enterprise,Engineer,CA,60,244,469.55,7.9,7,8,9,True,The onboarding flow was smooth but the export step felt slow.
+R00561,2026-07-10,SMB,Analyst,CA,31,188,341.49,8.8,8,13,8,True,Colour palettes look professional in client presentations.
+R00562,2026-02-02,Enterprise,Director,BR,13,84,175.02,7.5,10,16,4,True,Love the dashboard speed; charts render instantly on my laptop.
+R00563,2026-05-04,Startup,Analyst,US,29,56,640.95,8.5,7,6,4,True,Would pay more for scheduled reports and Slack delivery.
+R00564,2026-07-11,Enterprise,Manager,CA,40,278,656.76,8.8,8,15,14,True,Would pay more for scheduled reports and Slack delivery.
+R00565,2026-02-01,Enterprise,Executive,IN,31,215,266.82,5.7,5,4,4,True,The onboarding flow was smooth but the export step felt slow.
+R00566,2026-05-12,SMB,Engineer,IN,2,90,217.41,7.2,6,7,10,True,Would pay more for scheduled reports and Slack delivery.
+R00567,2026-03-01,SMB,Analyst,US,49,61,392.26,9.9,10,7,6,False,The onboarding flow was smooth but the export step felt slow.
+R00568,2026-07-25,Enterprise,Analyst,CA,38,97,408.75,10.0,8,7,8,True,Love the dashboard speed; charts render instantly on my laptop.
+R00569,2026-04-25,SMB,Analyst,US,54,39,360.28,7.4,6,13,10,True,Would pay more for scheduled reports and Slack delivery.
+R00570,2026-07-04,SMB,Manager,IN,48,164,162.57,8.2,5,6,8,False,"Sync with our warehouse failed twice this month, frustrating."
+R00571,2026-01-17,SMB,Engineer,BR,7,250,318.32,8.7,8,12,2,False,Too many clicks to share a report with my finance team.
+R00572,2026-05-11,Enterprise,Manager,IN,45,45,103.18,8.3,6,11,11,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00573,2026-04-14,Mid-market,Analyst,CA,44,239,511.38,7.3,6,14,3,True,Support answered within an hour and solved my import problem.
+R00574,2026-03-04,SMB,Engineer,US,51,238,436.91,7.4,8,10,14,False,"Sync with our warehouse failed twice this month, frustrating."
+R00575,2026-05-20,Mid-market,Director,US,22,78,253.83,5.8,5,10,12,False,The onboarding flow was smooth but the export step felt slow.
+R00576,2026-06-12,Startup,Manager,BR,58,296,151.69,7.2,4,11,6,False,The onboarding flow was smooth but the export step felt slow.
+R00577,2026-05-13,Mid-market,Engineer,IN,14,113,574.02,10.0,9,8,10,True,Support answered within an hour and solved my import problem.
+R00578,2026-04-01,SMB,Engineer,US,44,264,163.82,3.9,0,11,7,False,Support answered within an hour and solved my import problem.
+R00579,2026-05-05,Startup,Manager,AU,43,202,234.18,7.5,9,12,11,True,Colour palettes look professional in client presentations.
+R00580,2026-02-21,Enterprise,Director,CA,50,126,218.91,9.1,9,13,1,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00581,2026-01-10,Mid-market,Executive,BR,41,41,101.15,8.3,6,10,5,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00582,2026-02-05,SMB,Director,BR,49,153,214.46,10.0,9,9,7,True,Support answered within an hour and solved my import problem.
+R00583,2026-02-23,Startup,Director,BR,46,176,323.74,8.9,8,8,1,True,Support answered within an hour and solved my import problem.
+R00584,2026-06-21,Mid-market,Director,CA,11,146,410.72,7.3,7,8,10,True,"Sync with our warehouse failed twice this month, frustrating."
+R00585,2026-06-26,SMB,Director,US,30,12,606.66,6.9,5,12,8,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00586,2026-07-08,Mid-market,Executive,IN,45,303,126.96,6.5,5,10,1,False,Colour palettes look professional in client presentations.
+R00587,2026-01-10,Startup,Executive,IN,32,108,80.07,8.3,7,12,8,False,"Sync with our warehouse failed twice this month, frustrating."
+R00588,2026-03-10,SMB,Analyst,UK,22,132,85.14,8.1,5,11,5,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00589,2026-01-24,Startup,Manager,US,37,282,82.91,6.5,1,17,1,True,Too many clicks to share a report with my finance team.
+R00590,2026-03-30,Startup,Director,UK,13,265,221.1,5.3,1,6,2,False,"Sync with our warehouse failed twice this month, frustrating."
+R00591,2026-03-27,Startup,Engineer,BR,6,217,188.46,9.2,7,10,3,False,Too many clicks to share a report with my finance team.
+R00592,2026-02-23,Mid-market,Engineer,IN,58,279,164.93,7.2,6,7,10,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00593,2026-03-02,Mid-market,Director,IN,22,280,444.25,9.1,5,13,4,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00594,2026-04-24,Enterprise,Executive,BR,53,63,185.59,7.7,8,12,4,True,Would pay more for scheduled reports and Slack delivery.
+R00595,2026-07-25,Startup,Engineer,BR,40,189,355.95,6.4,6,10,12,True,Would pay more for scheduled reports and Slack delivery.
+R00596,2026-06-17,Startup,Director,US,54,227,442.8,7.7,7,15,7,True,Too many clicks to share a report with my finance team.
+R00597,2026-04-09,Startup,Manager,DE,8,313,274.4,9.8,7,6,10,True,The onboarding flow was smooth but the export step felt slow.
+R00598,2026-02-14,Enterprise,Analyst,UK,9,226,150.61,9.6,9,13,12,True,Would pay more for scheduled reports and Slack delivery.
+R00599,2026-05-05,SMB,Analyst,IN,35,278,46.99,6.9,2,8,13,True,Would pay more for scheduled reports and Slack delivery.
+R00600,2026-06-12,SMB,Executive,CA,15,30,571.62,6.5,5,17,2,True,The template gallery saves me hours every single week.
+R00601,2026-06-26,Enterprise,Manager,US,5,19,104.3,9.0,8,12,9,True,Love the dashboard speed; charts render instantly on my laptop.
+R00602,2026-01-19,SMB,Manager,UK,34,128,97.21,9.1,8,7,4,True,Support answered within an hour and solved my import problem.
+R00603,2026-06-10,Startup,Manager,US,23,103,14.95,6.6,7,12,10,True,Love the dashboard speed; charts render instantly on my laptop.
+R00604,2026-06-12,Enterprise,Executive,BR,41,75,146.21,7.6,6,9,5,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00605,2026-07-23,Enterprise,Engineer,CA,34,197,821.66,7.2,5,13,8,True,Would pay more for scheduled reports and Slack delivery.
+R00606,2026-07-02,Startup,Director,DE,13,279,141.75,6.5,6,11,2,True,The onboarding flow was smooth but the export step felt slow.
+R00607,2026-03-12,SMB,Engineer,AU,60,244,162.28,9.1,10,8,1,True,The template gallery saves me hours every single week.
+R00608,2026-03-29,Startup,Analyst,BR,17,126,345.33,7.3,8,8,2,True,Too many clicks to share a report with my finance team.
+R00609,2026-02-24,SMB,Engineer,DE,34,255,158.38,5.8,7,9,5,True,Too many clicks to share a report with my finance team.
+R00610,2026-05-01,Startup,Analyst,IN,56,22,151.3,5.7,3,8,13,False,Would pay more for scheduled reports and Slack delivery.
+R00611,2026-01-18,SMB,Director,CA,23,277,191.61,7.1,4,7,4,True,Support answered within an hour and solved my import problem.
+R00612,2026-03-08,Startup,Manager,IN,9,256,171.57,8.6,7,8,12,True,Colour palettes look professional in client presentations.
+R00613,2026-02-14,Mid-market,Engineer,DE,15,108,451.36,6.7,6,6,13,False,The template gallery saves me hours every single week.
+R00614,2026-06-01,Startup,Director,US,2,280,147.97,6.9,5,7,10,False,Would pay more for scheduled reports and Slack delivery.
+R00615,2026-05-15,SMB,Analyst,US,41,244,137.61,7.3,6,10,11,True,The onboarding flow was smooth but the export step felt slow.
+R00616,2026-02-11,Enterprise,Executive,BR,7,24,175.04,6.8,6,4,2,True,Support answered within an hour and solved my import problem.
+R00617,2026-03-27,Mid-market,Director,IN,49,109,75.85,9.3,6,6,6,True,Too many clicks to share a report with my finance team.
+R00618,2026-05-27,Enterprise,Executive,UK,11,192,531.66,7.8,6,10,14,True,The template gallery saves me hours every single week.
+R00619,2026-01-23,Mid-market,Director,AU,21,275,167.9,8.2,7,8,7,True,Too many clicks to share a report with my finance team.
+R00620,2026-06-11,Startup,Engineer,IN,43,272,277.01,8.5,6,9,6,True,"Sync with our warehouse failed twice this month, frustrating."
+R00621,2026-02-11,SMB,Executive,IN,19,87,108.91,9.5,8,13,12,False,Love the dashboard speed; charts render instantly on my laptop.
+R00622,2026-06-28,Startup,Executive,BR,30,107,211.86,7.6,7,9,7,True,The template gallery saves me hours every single week.
+R00623,2026-02-14,SMB,Analyst,CA,60,272,96.91,5.0,5,12,14,True,The template gallery saves me hours every single week.
+R00624,2026-01-12,Startup,Analyst,US,58,269,223.03,9.1,9,11,14,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00625,2026-06-05,Startup,Executive,US,40,279,1298.67,6.7,5,7,2,True,Colour palettes look professional in client presentations.
+R00626,2026-05-23,Mid-market,Manager,US,21,231,598.88,6.7,6,7,2,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00627,2026-02-03,Startup,Manager,IN,36,76,147.86,8.2,9,8,11,True,The onboarding flow was smooth but the export step felt slow.
+R00628,2026-07-17,Startup,Executive,AU,51,208,292.23,5.9,5,9,5,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00629,2026-02-20,SMB,Engineer,UK,13,58,620.56,6.7,7,9,11,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00630,2026-04-12,Mid-market,Engineer,US,9,94,92.22,7.4,8,7,3,False,Colour palettes look professional in client presentations.
+R00631,2026-04-26,Startup,Director,AU,44,227,129.98,9.3,7,8,4,False,Support answered within an hour and solved my import problem.
+R00632,2026-04-29,SMB,Director,CA,21,29,613.2,10.0,7,12,14,True,Love the dashboard speed; charts render instantly on my laptop.
+R00633,2026-01-21,SMB,Analyst,US,44,258,197.94,8.5,8,9,13,True,Colour palettes look professional in client presentations.
+R00634,2026-02-11,SMB,Director,BR,47,244,217.11,8.1,4,5,1,False,Would pay more for scheduled reports and Slack delivery.
+R00635,2026-05-28,Startup,Engineer,US,60,211,223.75,8.3,9,9,4,True,Too many clicks to share a report with my finance team.
+R00636,2026-03-09,SMB,Manager,UK,42,120,128.45,3.9,2,8,6,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00637,2026-07-23,Mid-market,Engineer,IN,13,262,63.27,10.0,9,12,11,True,Love the dashboard speed; charts render instantly on my laptop.
+R00638,2026-02-14,Mid-market,Analyst,US,54,136,363.24,7.2,6,9,10,True,The onboarding flow was smooth but the export step felt slow.
+R00639,2026-05-25,Startup,Manager,US,16,172,120.07,4.5,3,8,6,False,Colour palettes look professional in client presentations.
+R00640,2026-07-31,Enterprise,Manager,US,3,76,189.77,8.2,7,7,2,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00641,2026-06-26,SMB,Manager,US,41,240,250.92,6.9,5,9,11,True,"Sync with our warehouse failed twice this month, frustrating."
+R00642,2026-01-09,Startup,Executive,US,60,302,129.88,9.1,10,14,5,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00643,2026-04-30,Mid-market,Analyst,DE,34,210,74.65,8.6,7,15,10,True,Colour palettes look professional in client presentations.
+R00644,2026-03-06,Mid-market,Analyst,US,24,75,212.14,7.0,7,7,5,True,Would pay more for scheduled reports and Slack delivery.
+R00645,2026-04-29,Startup,Engineer,UK,48,122,97.57,7.0,6,9,3,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00646,2026-03-15,SMB,Engineer,DE,19,133,164.93,5.9,2,11,4,True,Too many clicks to share a report with my finance team.
+R00647,2026-06-20,Startup,Executive,IN,48,96,248.95,10.0,10,8,5,True,"Sync with our warehouse failed twice this month, frustrating."
+R00648,2026-06-10,Startup,Director,US,20,127,487.11,7.5,6,10,4,True,Support answered within an hour and solved my import problem.
+R00649,2026-07-26,Startup,Manager,IN,10,296,438.85,6.8,4,5,10,False,Colour palettes look professional in client presentations.
+R00650,2026-06-07,Mid-market,Engineer,IN,7,147,109.43,8.5,7,12,14,True,Love the dashboard speed; charts render instantly on my laptop.
+R00651,2026-04-01,Startup,Director,US,37,41,114.65,8.3,7,14,6,False,Support answered within an hour and solved my import problem.
+R00652,2026-03-03,Mid-market,Executive,BR,7,310,510.75,8.9,8,6,14,False,The template gallery saves me hours every single week.
+R00653,2026-04-25,SMB,Engineer,US,13,161,296.54,5.0,4,17,11,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00654,2026-01-11,Startup,Executive,IN,40,101,377.4,6.0,6,9,1,False,Would pay more for scheduled reports and Slack delivery.
+R00655,2026-03-04,Enterprise,Analyst,DE,59,248,512.22,9.6,10,13,1,False,Love the dashboard speed; charts render instantly on my laptop.
+R00656,2026-02-15,Mid-market,Director,US,21,276,108.82,6.4,4,10,9,True,Colour palettes look professional in client presentations.
+R00657,2026-07-28,SMB,Director,US,3,319,262.81,8.1,7,10,9,False,The onboarding flow was smooth but the export step felt slow.
+R00658,2026-01-22,SMB,Manager,IN,60,75,212.53,7.9,9,12,2,True,Colour palettes look professional in client presentations.
+R00659,2026-06-09,Startup,Analyst,BR,31,211,289.84,7.4,9,6,14,True,The template gallery saves me hours every single week.
+R00660,2026-07-12,SMB,Engineer,IN,58,246,187.62,7.0,4,7,5,False,The template gallery saves me hours every single week.
+R00661,2026-07-17,Mid-market,Executive,IN,58,311,216.23,9.9,10,11,9,True,Too many clicks to share a report with my finance team.
+R00662,2026-07-18,Enterprise,Director,CA,52,228,159.57,9.0,4,10,4,True,Would pay more for scheduled reports and Slack delivery.
+R00663,2026-07-25,Mid-market,Engineer,BR,32,105,230.85,8.1,7,10,8,True,"Sync with our warehouse failed twice this month, frustrating."
+R00664,2026-01-16,Mid-market,Engineer,US,16,43,182.67,7.9,6,10,3,True,Too many clicks to share a report with my finance team.
+R00665,2026-02-08,Startup,Manager,US,32,261,207.96,5.9,5,12,12,True,"Sync with our warehouse failed twice this month, frustrating."
+R00666,2026-02-25,Startup,Analyst,DE,46,19,376.2,7.0,6,9,5,True,The onboarding flow was smooth but the export step felt slow.
+R00667,2026-06-04,Startup,Manager,UK,1,98,176.11,8.2,6,6,10,True,Support answered within an hour and solved my import problem.
+R00668,2026-02-04,Startup,Analyst,US,23,133,73.14,8.6,5,7,13,True,Love the dashboard speed; charts render instantly on my laptop.
+R00669,2026-02-14,SMB,Engineer,UK,40,50,754.6,8.8,7,8,11,True,The template gallery saves me hours every single week.
+R00670,2026-02-07,Startup,Executive,DE,26,175,401.77,4.5,2,14,4,True,The onboarding flow was smooth but the export step felt slow.
+R00671,2026-02-23,SMB,Manager,US,3,129,1529.57,6.8,6,9,8,True,Colour palettes look professional in client presentations.
+R00672,2026-03-02,Mid-market,Engineer,DE,41,59,138.9,10.0,10,16,9,True,Too many clicks to share a report with my finance team.
+R00673,2026-07-09,Startup,Director,CA,42,204,413.06,7.3,4,12,12,True,The onboarding flow was smooth but the export step felt slow.
+R00674,2026-03-30,Startup,Engineer,DE,37,22,193.65,9.5,8,12,9,True,"Sync with our warehouse failed twice this month, frustrating."
+R00675,2026-06-29,Startup,Analyst,DE,8,206,219.12,8.7,6,12,4,False,The onboarding flow was smooth but the export step felt slow.
+R00676,2026-02-26,SMB,Analyst,US,49,201,397.79,5.9,5,12,6,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00677,2026-04-12,SMB,Executive,US,54,26,288.83,4.1,2,9,11,True,"Sync with our warehouse failed twice this month, frustrating."
+R00678,2026-03-18,Startup,Engineer,UK,8,200,162.52,9.0,8,5,14,True,"Sync with our warehouse failed twice this month, frustrating."
+R00679,2026-03-11,SMB,Analyst,IN,4,88,137.56,9.0,9,11,12,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00680,2026-05-05,SMB,Manager,CA,52,200,379.12,6.3,3,10,5,False,Colour palettes look professional in client presentations.
+R00681,2026-05-04,Enterprise,Manager,UK,40,160,156.08,8.5,8,8,4,True,Too many clicks to share a report with my finance team.
+R00682,2026-01-25,Enterprise,Executive,IN,40,230,155.87,9.5,8,14,3,True,The template gallery saves me hours every single week.
+R00683,2026-04-19,SMB,Executive,DE,17,91,66.42,6.5,3,10,1,True,The onboarding flow was smooth but the export step felt slow.
+R00684,2026-02-17,Mid-market,Manager,IN,14,122,260.19,8.3,8,10,7,True,Support answered within an hour and solved my import problem.
+R00685,2026-02-27,Mid-market,Executive,DE,41,317,265.24,7.9,5,10,10,True,The template gallery saves me hours every single week.
+R00686,2026-01-17,Mid-market,Analyst,IN,27,10,328.31,8.6,9,14,6,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00687,2026-04-09,Enterprise,Manager,CA,57,94,172.89,7.5,7,14,12,True,Love the dashboard speed; charts render instantly on my laptop.
+R00688,2026-07-11,Mid-market,Engineer,DE,48,1,197.71,9.8,9,12,13,True,Would pay more for scheduled reports and Slack delivery.
+R00689,2026-01-11,Mid-market,Executive,UK,51,244,99.95,7.7,5,12,7,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00690,2026-06-13,Startup,Executive,DE,10,234,216.72,6.8,4,6,3,False,Would pay more for scheduled reports and Slack delivery.
+R00691,2026-04-14,Startup,Engineer,US,40,44,541.13,5.6,3,2,10,True,Colour palettes look professional in client presentations.
+R00692,2026-05-25,SMB,Director,UK,51,260,194.94,7.2,9,13,10,False,Too many clicks to share a report with my finance team.
+R00693,2026-02-15,SMB,Executive,IN,49,50,382.53,7.0,7,12,12,True,The onboarding flow was smooth but the export step felt slow.
+R00694,2026-05-21,Enterprise,Analyst,AU,22,170,100.22,7.9,5,7,10,True,The template gallery saves me hours every single week.
+R00695,2026-02-15,Enterprise,Manager,US,12,226,148.31,6.0,6,6,5,False,Would pay more for scheduled reports and Slack delivery.
+R00696,2026-04-29,Enterprise,Engineer,AU,21,276,624.94,9.7,9,13,2,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00697,2026-04-14,Startup,Executive,UK,19,48,81.42,6.8,5,11,5,True,The template gallery saves me hours every single week.
+R00698,2026-03-11,SMB,Executive,US,2,218,271.9,7.4,8,16,1,True,Colour palettes look professional in client presentations.
+R00699,2026-06-28,SMB,Manager,UK,40,186,382.21,8.7,10,10,3,True,Too many clicks to share a report with my finance team.
+R00700,2026-06-16,SMB,Engineer,IN,6,197,278.51,8.7,8,10,11,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00701,2026-02-11,Startup,Director,UK,22,31,434.72,7.5,7,12,3,False,Colour palettes look professional in client presentations.
+R00702,2026-06-06,Startup,Analyst,CA,19,276,226.58,6.1,2,11,9,True,Colour palettes look professional in client presentations.
+R00703,2026-03-07,Startup,Director,US,32,109,235.12,9.5,9,11,4,False,The onboarding flow was smooth but the export step felt slow.
+R00704,2026-04-22,Mid-market,Manager,US,9,223,984.43,8.6,9,16,11,True,The onboarding flow was smooth but the export step felt slow.
+R00705,2026-04-20,Mid-market,Analyst,CA,40,180,86.33,9.5,8,9,10,True,Colour palettes look professional in client presentations.
+R00706,2026-03-06,SMB,Engineer,US,58,280,101.71,8.8,7,8,3,True,Support answered within an hour and solved my import problem.
+R00707,2026-06-30,Startup,Analyst,DE,4,99,708.09,5.9,5,7,3,True,"Sync with our warehouse failed twice this month, frustrating."
+R00708,2026-06-04,Startup,Analyst,IN,26,20,259.92,6.9,5,8,7,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00709,2026-02-10,Mid-market,Engineer,AU,11,187,334.22,8.9,8,7,7,False,Love the dashboard speed; charts render instantly on my laptop.
+R00710,2026-02-05,Enterprise,Engineer,AU,39,181,164.09,7.4,7,11,8,True,Love the dashboard speed; charts render instantly on my laptop.
+R00711,2026-05-27,Startup,Analyst,US,3,55,378.53,6.1,5,11,9,False,Would pay more for scheduled reports and Slack delivery.
+R00712,2026-05-25,Startup,Engineer,CA,18,152,139.43,5.5,4,10,12,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00713,2026-05-31,Enterprise,Manager,IN,18,196,360.77,4.8,3,7,14,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00714,2026-01-20,SMB,Engineer,UK,3,9,50.67,7.7,8,16,3,True,Colour palettes look professional in client presentations.
+R00715,2026-01-24,SMB,Engineer,US,56,127,110.38,8.4,4,4,6,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00716,2026-02-20,Mid-market,Analyst,AU,57,53,305.86,8.8,8,13,11,True,"Sync with our warehouse failed twice this month, frustrating."
+R00717,2026-06-28,SMB,Manager,US,1,215,91.93,6.2,6,13,10,True,The onboarding flow was smooth but the export step felt slow.
+R00718,2026-06-15,SMB,Engineer,US,12,7,684.53,8.5,7,10,13,True,Support answered within an hour and solved my import problem.
+R00719,2026-05-03,Mid-market,Engineer,CA,52,81,189.32,9.3,7,8,3,True,Too many clicks to share a report with my finance team.
+R00720,2026-04-17,Mid-market,Analyst,CA,20,232,269.94,6.4,4,13,13,False,Love the dashboard speed; charts render instantly on my laptop.
+R00721,2026-03-26,Enterprise,Director,IN,54,297,108.96,5.9,5,12,10,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00722,2026-03-30,Enterprise,Executive,US,44,236,119.53,7.7,4,12,1,True,The template gallery saves me hours every single week.
+R00723,2026-07-03,Startup,Engineer,BR,4,259,293.72,6.9,8,14,5,True,Colour palettes look professional in client presentations.
+R00724,2026-01-11,SMB,Executive,US,15,30,570.17,8.0,7,14,1,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00725,2026-06-18,Startup,Manager,IN,12,69,606.93,6.6,4,11,12,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00726,2026-04-12,Startup,Executive,US,49,37,234.2,6.4,5,8,6,True,Colour palettes look professional in client presentations.
+R00727,2026-03-04,SMB,Engineer,BR,41,257,378.42,6.6,8,11,7,True,The onboarding flow was smooth but the export step felt slow.
+R00728,2026-02-05,Enterprise,Executive,US,19,119,412.98,6.0,6,12,5,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00729,2026-05-21,SMB,Analyst,US,57,165,466.17,7.3,7,12,6,False,Support answered within an hour and solved my import problem.
+R00730,2026-04-28,Startup,Director,US,5,251,220.4,7.0,5,11,10,True,"Sync with our warehouse failed twice this month, frustrating."
+R00731,2026-02-25,Mid-market,Director,UK,24,182,276.45,9.7,9,10,13,True,Would pay more for scheduled reports and Slack delivery.
+R00732,2026-07-14,SMB,Executive,US,55,135,100.48,10.0,10,13,13,False,Too many clicks to share a report with my finance team.
+R00733,2026-05-24,Startup,Executive,US,52,167,274.19,6.1,6,11,4,True,Support answered within an hour and solved my import problem.
+R00734,2026-01-12,Enterprise,Analyst,US,12,103,446.72,8.0,3,8,4,True,"Sync with our warehouse failed twice this month, frustrating."
+R00735,2026-07-20,Mid-market,Executive,UK,54,226,69.43,8.5,5,8,14,True,Support answered within an hour and solved my import problem.
+R00736,2026-01-23,Enterprise,Director,UK,21,131,558.7,10.0,10,9,12,False,Would pay more for scheduled reports and Slack delivery.
+R00737,2026-07-30,Enterprise,Executive,DE,56,261,172.92,9.5,8,8,4,True,Colour palettes look professional in client presentations.
+R00738,2026-05-23,Startup,Analyst,CA,48,57,94.63,8.3,7,11,11,True,Support answered within an hour and solved my import problem.
+R00739,2026-03-10,Enterprise,Engineer,US,36,115,309.75,9.3,10,14,12,True,Love the dashboard speed; charts render instantly on my laptop.
+R00740,2026-02-26,Startup,Director,IN,55,10,130.62,10.0,7,7,10,True,Colour palettes look professional in client presentations.
+R00741,2026-04-26,Startup,Analyst,CA,43,93,297.72,7.3,6,4,7,False,Support answered within an hour and solved my import problem.
+R00742,2026-04-20,SMB,Manager,IN,38,100,307.38,6.7,6,8,11,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00743,2026-05-16,Enterprise,Manager,DE,51,107,140.06,7.2,8,11,14,True,Too many clicks to share a report with my finance team.
+R00744,2026-01-17,Startup,Executive,IN,39,69,240.89,6.7,3,14,7,True,The onboarding flow was smooth but the export step felt slow.
+R00745,2026-02-17,Startup,Engineer,DE,13,209,220.79,8.2,5,17,6,True,Love the dashboard speed; charts render instantly on my laptop.
+R00746,2026-05-20,Mid-market,Engineer,DE,5,217,206.43,10.0,7,10,3,True,The template gallery saves me hours every single week.
+R00747,2026-05-23,Enterprise,Director,IN,47,282,785.05,7.5,6,11,12,False,The template gallery saves me hours every single week.
+R00748,2026-04-17,Startup,Manager,CA,11,215,582.33,8.3,6,19,4,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00749,2026-05-11,Startup,Manager,CA,12,144,733.85,7.6,5,8,13,True,Support answered within an hour and solved my import problem.
+R00750,2026-05-03,Mid-market,Analyst,US,44,283,404.64,7.7,7,11,10,False,The onboarding flow was smooth but the export step felt slow.
+R00751,2026-05-01,Startup,Engineer,IN,20,119,126.58,7.9,8,12,9,True,Too many clicks to share a report with my finance team.
+R00752,2026-04-09,SMB,Director,BR,26,25,156.23,6.6,4,5,2,True,Love the dashboard speed; charts render instantly on my laptop.
+R00753,2026-02-09,SMB,Engineer,BR,42,241,515.84,6.4,6,10,2,True,The template gallery saves me hours every single week.
+R00754,2026-03-05,Startup,Executive,US,21,179,185.7,7.4,6,13,14,True,The template gallery saves me hours every single week.
+R00755,2026-07-01,SMB,Executive,CA,5,182,548.98,6.9,4,8,10,True,Too many clicks to share a report with my finance team.
+R00756,2026-06-02,Startup,Manager,US,53,296,233.31,10.0,8,8,6,True,Love the dashboard speed; charts render instantly on my laptop.
+R00757,2026-06-13,SMB,Manager,US,34,222,387.16,6.5,6,15,1,True,Too many clicks to share a report with my finance team.
+R00758,2026-07-29,SMB,Manager,DE,34,107,353.57,8.5,9,9,2,True,Support answered within an hour and solved my import problem.
+R00759,2026-03-30,Startup,Engineer,BR,50,105,825.97,9.0,10,7,2,False,The onboarding flow was smooth but the export step felt slow.
+R00760,2026-02-11,SMB,Manager,IN,47,65,274.77,7.8,6,17,1,False,Support answered within an hour and solved my import problem.
+R00761,2026-03-12,SMB,Engineer,DE,43,158,99.14,10.0,10,9,1,False,The onboarding flow was smooth but the export step felt slow.
+R00762,2026-05-12,Startup,Executive,US,8,68,202.72,7.9,7,8,7,False,"Sync with our warehouse failed twice this month, frustrating."
+R00763,2026-06-19,SMB,Analyst,UK,18,238,71.75,10.0,10,12,6,True,"Sync with our warehouse failed twice this month, frustrating."
+R00764,2026-02-09,Startup,Manager,US,47,160,894.7,5.0,4,6,6,True,Love the dashboard speed; charts render instantly on my laptop.
+R00765,2026-02-28,SMB,Manager,US,15,51,77.14,9.0,7,12,11,False,Would pay more for scheduled reports and Slack delivery.
+R00766,2026-01-22,Startup,Engineer,IN,3,304,121.99,8.4,7,11,3,True,Would pay more for scheduled reports and Slack delivery.
+R00767,2026-01-27,Startup,Director,US,22,310,161.01,10.0,10,16,10,True,The onboarding flow was smooth but the export step felt slow.
+R00768,2026-02-06,Mid-market,Engineer,AU,37,275,104.18,9.8,8,7,6,False,"Sync with our warehouse failed twice this month, frustrating."
+R00769,2026-06-16,Mid-market,Manager,US,56,24,573.32,6.8,10,13,3,True,The template gallery saves me hours every single week.
+R00770,2026-03-11,SMB,Analyst,IN,35,167,244.67,9.3,8,5,5,True,"Sync with our warehouse failed twice this month, frustrating."
+R00771,2026-03-23,SMB,Manager,US,35,269,238.11,8.1,7,9,11,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00772,2026-02-20,Startup,Analyst,IN,32,244,504.27,10.0,8,15,5,True,Support answered within an hour and solved my import problem.
+R00773,2026-06-08,Startup,Analyst,AU,56,172,411.66,7.7,6,11,6,True,Support answered within an hour and solved my import problem.
+R00774,2026-02-10,Mid-market,Analyst,US,3,220,287.06,10.0,10,15,13,True,"Sync with our warehouse failed twice this month, frustrating."
+R00775,2026-01-07,Enterprise,Engineer,US,2,52,165.95,7.5,3,11,14,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00776,2026-05-25,Enterprise,Executive,US,5,7,152.53,5.8,6,6,4,True,Support answered within an hour and solved my import problem.
+R00777,2026-04-03,SMB,Executive,UK,54,86,197.06,7.8,7,11,11,True,The template gallery saves me hours every single week.
+R00778,2026-07-22,Mid-market,Executive,AU,34,225,571.6,6.8,6,10,10,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00779,2026-07-04,Enterprise,Executive,CA,7,262,72.83,7.0,7,10,11,True,"Sync with our warehouse failed twice this month, frustrating."
+R00780,2026-03-05,Enterprise,Analyst,DE,19,157,208.94,6.2,4,18,9,False,Colour palettes look professional in client presentations.
+R00781,2026-05-17,Startup,Director,UK,42,42,173.99,9.3,9,7,13,False,Too many clicks to share a report with my finance team.
+R00782,2026-01-16,Startup,Analyst,IN,28,317,657.52,7.9,7,17,7,True,"Sync with our warehouse failed twice this month, frustrating."
+R00783,2026-02-23,Enterprise,Engineer,DE,40,279,284.39,7.5,8,13,1,True,Support answered within an hour and solved my import problem.
+R00784,2026-05-10,Startup,Manager,US,57,179,209.45,5.1,3,9,4,True,The onboarding flow was smooth but the export step felt slow.
+R00785,2026-01-22,Enterprise,Engineer,US,22,186,790.79,7.6,7,9,6,True,Colour palettes look professional in client presentations.
+R00786,2026-07-30,Enterprise,Executive,IN,24,255,284.29,5.5,6,5,14,True,Too many clicks to share a report with my finance team.
+R00787,2026-01-23,Mid-market,Engineer,US,30,275,109.95,9.7,7,4,13,True,Would pay more for scheduled reports and Slack delivery.
+R00788,2026-03-16,Startup,Engineer,AU,46,201,184.35,9.7,8,12,8,True,The onboarding flow was smooth but the export step felt slow.
+R00789,2026-06-26,Mid-market,Engineer,IN,43,319,354.19,6.8,6,9,9,True,The onboarding flow was smooth but the export step felt slow.
+R00790,2026-05-27,SMB,Engineer,US,23,288,397.87,7.7,7,9,11,True,The template gallery saves me hours every single week.
+R00791,2026-06-20,Enterprise,Engineer,IN,26,143,203.19,7.4,4,9,8,False,Would pay more for scheduled reports and Slack delivery.
+R00792,2026-03-14,Enterprise,Analyst,US,39,187,853.37,7.9,4,8,3,True,Colour palettes look professional in client presentations.
+R00793,2026-04-04,Mid-market,Engineer,AU,44,21,133.24,8.8,6,13,11,True,The onboarding flow was smooth but the export step felt slow.
+R00794,2026-05-13,Mid-market,Executive,US,48,206,192.81,9.6,8,6,11,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00795,2026-05-15,SMB,Director,US,24,262,104.86,6.8,3,5,13,True,The onboarding flow was smooth but the export step felt slow.
+R00796,2026-02-13,SMB,Analyst,DE,24,187,279.46,9.7,10,13,9,False,Too many clicks to share a report with my finance team.
+R00797,2026-05-30,Mid-market,Engineer,US,9,208,189.29,8.0,7,10,10,True,The template gallery saves me hours every single week.
+R00798,2026-07-05,SMB,Manager,DE,10,163,771.78,6.9,5,9,12,False,Colour palettes look professional in client presentations.
+R00799,2026-03-23,Enterprise,Analyst,CA,53,317,284.67,7.4,6,10,8,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00800,2026-04-13,Mid-market,Executive,DE,38,116,93.35,9.6,10,10,3,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00801,2026-04-12,SMB,Executive,US,29,192,275.94,9.1,9,10,9,False,The template gallery saves me hours every single week.
+R00802,2026-05-25,Mid-market,Executive,CA,32,120,217.54,8.7,9,10,1,True,Would pay more for scheduled reports and Slack delivery.
+R00803,2026-01-27,Mid-market,Executive,US,60,169,135.59,8.5,7,18,10,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00804,2026-04-14,Startup,Manager,US,39,69,378.07,7.3,4,10,13,False,Too many clicks to share a report with my finance team.
+R00805,2026-06-01,SMB,Engineer,UK,53,148,141.69,7.8,9,8,14,True,Would pay more for scheduled reports and Slack delivery.
+R00806,2026-06-01,SMB,Analyst,US,45,209,176.83,8.4,9,7,11,True,Would pay more for scheduled reports and Slack delivery.
+R00807,2026-03-11,SMB,Executive,CA,46,156,38.31,7.6,7,10,1,True,Would pay more for scheduled reports and Slack delivery.
+R00808,2026-03-07,Enterprise,Executive,US,29,95,39.2,6.2,6,9,3,True,The onboarding flow was smooth but the export step felt slow.
+R00809,2026-03-19,SMB,Executive,US,52,27,877.53,9.6,10,10,8,True,Would pay more for scheduled reports and Slack delivery.
+R00810,2026-03-05,Enterprise,Engineer,IN,24,258,438.82,8.2,8,12,12,False,Would pay more for scheduled reports and Slack delivery.
+R00811,2026-03-30,Mid-market,Manager,AU,35,74,98.12,8.5,10,11,10,False,Colour palettes look professional in client presentations.
+R00812,2026-02-08,Startup,Engineer,US,53,215,108.9,9.6,7,10,7,True,Would pay more for scheduled reports and Slack delivery.
+R00813,2026-06-18,SMB,Executive,UK,25,91,351.88,8.6,6,9,12,True,Colour palettes look professional in client presentations.
+R00814,2026-03-28,Startup,Director,IN,30,316,310.85,7.1,6,8,9,True,Support answered within an hour and solved my import problem.
+R00815,2026-06-12,Mid-market,Director,US,29,318,533.06,7.4,6,13,2,False,"Sync with our warehouse failed twice this month, frustrating."
+R00816,2026-05-15,SMB,Manager,IN,21,25,105.61,7.3,5,5,12,True,The template gallery saves me hours every single week.
+R00817,2026-01-13,SMB,Analyst,BR,1,153,210.52,4.0,2,6,8,True,The template gallery saves me hours every single week.
+R00818,2026-06-22,Startup,Manager,CA,21,223,196.94,9.8,8,13,5,False,The onboarding flow was smooth but the export step felt slow.
+R00819,2026-01-16,Startup,Manager,CA,27,39,121.29,9.1,10,6,9,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00820,2026-03-03,Mid-market,Engineer,UK,47,121,293.91,7.7,6,8,2,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00821,2026-03-22,Enterprise,Analyst,IN,51,214,354.65,8.6,6,13,11,True,Would pay more for scheduled reports and Slack delivery.
+R00822,2026-04-19,SMB,Executive,US,33,133,685.24,5.2,4,13,8,False,Too many clicks to share a report with my finance team.
+R00823,2026-01-17,Mid-market,Executive,IN,55,73,411.19,9.1,10,9,8,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00824,2026-07-18,Enterprise,Manager,US,28,101,85.19,8.8,8,15,3,True,Support answered within an hour and solved my import problem.
+R00825,2026-05-08,Enterprise,Executive,US,26,280,154.05,7.5,7,9,4,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00826,2026-02-04,Startup,Executive,AU,5,56,337.98,9.5,8,9,7,True,Colour palettes look professional in client presentations.
+R00827,2026-07-01,SMB,Executive,UK,52,298,210.49,6.0,3,14,2,True,"Sync with our warehouse failed twice this month, frustrating."
+R00828,2026-01-06,Mid-market,Engineer,IN,45,93,302.22,9.7,9,12,11,True,Would pay more for scheduled reports and Slack delivery.
+R00829,2026-03-09,Startup,Analyst,AU,51,196,52.36,9.5,9,5,13,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00830,2026-03-24,Startup,Analyst,DE,30,210,194.53,7.2,4,11,1,True,Colour palettes look professional in client presentations.
+R00831,2026-02-24,SMB,Engineer,US,31,162,177.39,8.9,7,9,11,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00832,2026-03-02,Startup,Engineer,US,53,111,465.22,6.3,4,8,9,True,The template gallery saves me hours every single week.
+R00833,2026-01-12,Mid-market,Manager,CA,17,259,294.63,8.1,8,8,10,True,Support answered within an hour and solved my import problem.
+R00834,2026-05-27,Startup,Executive,CA,45,164,68.79,7.3,7,11,1,True,Love the dashboard speed; charts render instantly on my laptop.
+R00835,2026-05-01,SMB,Director,US,16,93,115.14,6.9,3,9,8,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00836,2026-01-27,SMB,Engineer,US,19,44,91.41,7.0,5,17,12,True,Too many clicks to share a report with my finance team.
+R00837,2026-03-28,SMB,Analyst,US,17,285,218.91,5.6,3,18,4,True,Too many clicks to share a report with my finance team.
+R00838,2026-06-18,Mid-market,Manager,US,25,229,432.42,8.8,7,5,2,True,Would pay more for scheduled reports and Slack delivery.
+R00839,2026-01-22,Startup,Engineer,CA,18,64,215.14,8.5,8,14,12,True,Support answered within an hour and solved my import problem.
+R00840,2026-06-16,Enterprise,Manager,IN,21,113,271.26,10.0,9,15,6,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00841,2026-01-05,Mid-market,Director,BR,15,175,108.5,6.7,8,15,10,True,Would pay more for scheduled reports and Slack delivery.
+R00842,2026-01-25,Mid-market,Analyst,DE,33,305,1448.48,10.0,10,11,8,True,Love the dashboard speed; charts render instantly on my laptop.
+R00843,2026-02-06,Startup,Manager,US,30,52,402.46,5.5,4,8,6,True,Love the dashboard speed; charts render instantly on my laptop.
+R00844,2026-02-06,Startup,Executive,CA,25,311,537.03,6.7,7,9,3,True,The onboarding flow was smooth but the export step felt slow.
+R00845,2026-01-09,Enterprise,Executive,AU,53,316,48.99,8.4,6,6,4,True,"Sync with our warehouse failed twice this month, frustrating."
+R00846,2026-03-14,Enterprise,Analyst,IN,17,272,157.75,6.0,2,11,11,True,Too many clicks to share a report with my finance team.
+R00847,2026-05-03,Enterprise,Engineer,UK,37,166,93.52,7.9,7,5,1,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00848,2026-03-03,Startup,Analyst,DE,2,100,119.97,6.9,6,13,2,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00849,2026-04-12,Mid-market,Engineer,CA,21,151,216.16,10.0,10,12,7,True,The onboarding flow was smooth but the export step felt slow.
+R00850,2026-03-09,SMB,Executive,BR,9,125,206.5,7.3,3,9,10,True,Too many clicks to share a report with my finance team.
+R00851,2026-04-27,SMB,Executive,DE,14,66,142.96,6.4,4,10,7,True,The onboarding flow was smooth but the export step felt slow.
+R00852,2026-06-07,Startup,Analyst,IN,11,165,166.82,7.2,4,7,5,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00853,2026-03-08,Enterprise,Manager,UK,9,35,101.94,7.1,4,10,3,True,Would pay more for scheduled reports and Slack delivery.
+R00854,2026-02-24,Startup,Director,CA,33,247,248.62,8.0,9,11,13,True,"Sync with our warehouse failed twice this month, frustrating."
+R00855,2026-04-30,SMB,Manager,US,51,213,182.16,8.7,10,12,14,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00856,2026-05-11,SMB,Analyst,UK,36,313,154.36,7.8,6,10,7,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00857,2026-02-25,Enterprise,Director,US,2,278,533.73,7.1,4,7,8,True,"Sync with our warehouse failed twice this month, frustrating."
+R00858,2026-02-28,SMB,Analyst,IN,53,297,224.23,6.6,7,11,1,True,Support answered within an hour and solved my import problem.
+R00859,2026-06-23,Startup,Manager,CA,10,5,217.19,7.2,8,17,4,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00860,2026-02-10,SMB,Analyst,DE,39,153,501.68,8.3,7,19,4,True,Love the dashboard speed; charts render instantly on my laptop.
+R00861,2026-03-20,Mid-market,Executive,IN,12,277,567.69,9.5,9,12,11,True,The template gallery saves me hours every single week.
+R00862,2026-06-03,SMB,Director,BR,26,138,175.9,9.8,10,12,1,False,Support answered within an hour and solved my import problem.
+R00863,2026-01-27,Startup,Manager,IN,38,176,297.07,9.0,5,5,9,True,Would pay more for scheduled reports and Slack delivery.
+R00864,2026-05-05,SMB,Executive,DE,54,57,377.17,8.2,5,13,3,True,The template gallery saves me hours every single week.
+R00865,2026-03-03,SMB,Manager,AU,54,55,164.06,7.3,5,15,10,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00866,2026-04-25,Mid-market,Analyst,UK,51,131,397.43,9.6,10,7,13,True,Would pay more for scheduled reports and Slack delivery.
+R00867,2026-06-13,SMB,Manager,IN,46,155,235.74,9.4,6,12,9,True,Love the dashboard speed; charts render instantly on my laptop.
+R00868,2026-05-22,Mid-market,Manager,US,11,40,284.19,9.0,9,15,11,False,Support answered within an hour and solved my import problem.
+R00869,2026-02-23,SMB,Director,US,53,224,183.78,5.0,4,8,1,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00870,2026-01-20,Enterprise,Director,CA,53,6,583.36,8.8,8,7,12,False,The template gallery saves me hours every single week.
+R00871,2026-05-04,SMB,Engineer,UK,7,193,282.58,9.9,9,7,5,True,Support answered within an hour and solved my import problem.
+R00872,2026-01-28,Mid-market,Manager,DE,28,310,669.66,8.6,9,9,10,True,Support answered within an hour and solved my import problem.
+R00873,2026-03-22,Startup,Engineer,US,25,155,246.66,8.5,7,13,11,True,The template gallery saves me hours every single week.
+R00874,2026-04-06,Startup,Director,BR,12,266,187.69,8.1,7,11,6,True,Too many clicks to share a report with my finance team.
+R00875,2026-07-29,Mid-market,Executive,UK,25,32,216.85,9.9,6,9,6,True,Too many clicks to share a report with my finance team.
+R00876,2026-01-24,Startup,Analyst,IN,7,11,202.74,8.2,7,14,13,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00877,2026-03-28,Enterprise,Manager,DE,31,127,384.84,9.5,9,7,12,True,Love the dashboard speed; charts render instantly on my laptop.
+R00878,2026-01-06,Enterprise,Analyst,CA,21,212,189.48,6.0,3,9,2,False,Love the dashboard speed; charts render instantly on my laptop.
+R00879,2026-02-11,SMB,Engineer,CA,45,70,246.74,5.7,4,11,2,True,Would pay more for scheduled reports and Slack delivery.
+R00880,2026-04-14,Startup,Manager,DE,39,163,181.62,8.5,8,12,8,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00881,2026-07-26,Startup,Manager,DE,47,241,542.8,7.2,5,9,14,True,Love the dashboard speed; charts render instantly on my laptop.
+R00882,2026-07-30,Startup,Executive,UK,10,198,115.93,7.1,7,5,7,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00883,2026-03-12,Startup,Director,CA,45,263,106.92,7.8,7,16,2,True,Too many clicks to share a report with my finance team.
+R00884,2026-06-29,Enterprise,Executive,UK,46,176,224.57,6.8,5,8,4,True,Love the dashboard speed; charts render instantly on my laptop.
+R00885,2026-07-28,Mid-market,Executive,US,15,277,506.39,6.7,5,10,4,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00886,2026-05-09,Startup,Manager,AU,36,251,314.52,6.5,7,9,3,True,The template gallery saves me hours every single week.
+R00887,2026-02-15,Mid-market,Manager,UK,41,110,369.93,6.8,8,10,1,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00888,2026-02-05,Startup,Director,UK,25,262,388.44,9.8,9,16,9,True,Support answered within an hour and solved my import problem.
+R00889,2026-02-05,Startup,Analyst,UK,59,237,524.33,9.2,8,12,10,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00890,2026-05-10,SMB,Manager,AU,24,29,98.83,6.2,4,13,3,True,The onboarding flow was smooth but the export step felt slow.
+R00891,2026-01-15,SMB,Executive,IN,23,281,233.23,9.7,10,8,3,True,Too many clicks to share a report with my finance team.
+R00892,2026-07-29,Startup,Executive,DE,41,254,339.02,10.0,10,6,1,True,Love the dashboard speed; charts render instantly on my laptop.
+R00893,2026-06-18,Startup,Analyst,DE,31,98,370.34,7.6,7,10,12,True,Support answered within an hour and solved my import problem.
+R00894,2026-01-26,SMB,Engineer,US,14,101,128.89,9.3,6,16,1,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00895,2026-06-18,Startup,Analyst,US,4,218,661.94,4.9,1,9,14,True,"Sync with our warehouse failed twice this month, frustrating."
+R00896,2026-02-03,Startup,Executive,BR,7,268,235.76,6.9,6,7,2,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00897,2026-07-01,SMB,Manager,US,5,145,319.47,6.4,5,6,7,True,The template gallery saves me hours every single week.
+R00898,2026-05-15,Mid-market,Manager,BR,18,248,293.24,7.6,8,7,10,True,Love the dashboard speed; charts render instantly on my laptop.
+R00899,2026-03-25,Startup,Director,UK,26,266,175.92,6.9,8,12,2,True,Love the dashboard speed; charts render instantly on my laptop.
+R00900,2026-03-12,Mid-market,Director,CA,6,100,326.54,8.9,8,8,4,True,The onboarding flow was smooth but the export step felt slow.
+R00901,2026-06-18,Startup,Analyst,IN,29,76,369.55,5.5,4,13,7,True,Too many clicks to share a report with my finance team.
+R00902,2026-07-18,Mid-market,Director,US,45,285,626.19,7.4,5,9,3,True,The template gallery saves me hours every single week.
+R00903,2026-01-13,Mid-market,Director,UK,44,310,112.59,7.9,8,10,6,True,"Sync with our warehouse failed twice this month, frustrating."
+R00904,2026-07-26,SMB,Engineer,IN,7,298,880.99,8.3,7,13,2,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00905,2026-07-30,Startup,Director,US,41,64,220.72,10.0,10,5,10,True,Too many clicks to share a report with my finance team.
+R00906,2026-05-11,Mid-market,Director,US,28,182,85.79,8.9,6,14,7,True,The onboarding flow was smooth but the export step felt slow.
+R00907,2026-07-21,SMB,Analyst,IN,8,40,521.7,7.4,5,15,7,True,The template gallery saves me hours every single week.
+R00908,2026-02-27,Enterprise,Director,US,54,183,282.27,4.6,2,12,4,True,Colour palettes look professional in client presentations.
+R00909,2026-05-07,SMB,Engineer,BR,3,270,369.93,9.8,9,11,4,False,Mobile layout breaks on my tablet when I rotate the screen.
+R00910,2026-06-07,Enterprise,Engineer,IN,37,17,343.6,6.6,5,9,11,True,Would pay more for scheduled reports and Slack delivery.
+R00911,2026-02-07,SMB,Executive,CA,43,65,276.9,10.0,10,7,11,True,The template gallery saves me hours every single week.
+R00912,2026-05-20,SMB,Analyst,UK,48,237,735.0,8.5,9,11,4,False,"Sync with our warehouse failed twice this month, frustrating."
+R00913,2026-04-30,Startup,Director,UK,52,125,444.92,9.0,5,11,14,False,Support answered within an hour and solved my import problem.
+R00914,2026-07-15,Startup,Director,US,37,40,281.17,5.7,5,14,10,True,Too many clicks to share a report with my finance team.
+R00915,2026-03-06,Enterprise,Manager,BR,3,261,220.48,9.3,8,9,1,True,"Sync with our warehouse failed twice this month, frustrating."
+R00916,2026-03-29,Mid-market,Executive,US,50,295,61.46,9.8,9,14,5,True,The onboarding flow was smooth but the export step felt slow.
+R00917,2026-02-23,Mid-market,Engineer,DE,15,24,441.34,7.2,8,10,10,True,"Sync with our warehouse failed twice this month, frustrating."
+R00918,2026-02-12,Startup,Engineer,UK,44,259,318.61,8.4,8,12,4,True,The template gallery saves me hours every single week.
+R00919,2026-05-22,SMB,Analyst,US,34,33,65.05,7.0,7,11,6,False,The onboarding flow was smooth but the export step felt slow.
+R00920,2026-01-05,SMB,Executive,UK,54,273,424.58,7.4,7,8,6,True,"Sync with our warehouse failed twice this month, frustrating."
+R00921,2026-01-24,SMB,Executive,US,17,298,311.17,6.9,7,12,7,False,Would pay more for scheduled reports and Slack delivery.
+R00922,2026-07-21,Mid-market,Manager,IN,59,306,130.2,8.5,6,16,9,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00923,2026-05-30,Startup,Director,US,59,235,372.85,10.0,7,15,3,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00924,2026-05-29,SMB,Analyst,IN,3,165,160.19,8.7,6,11,4,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00925,2026-01-10,Mid-market,Manager,UK,33,80,448.04,7.7,6,9,2,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00926,2026-02-13,Startup,Executive,IN,14,41,291.21,7.7,5,5,5,True,The onboarding flow was smooth but the export step felt slow.
+R00927,2026-07-22,SMB,Engineer,AU,15,174,293.59,9.0,7,9,9,True,Would pay more for scheduled reports and Slack delivery.
+R00928,2026-03-30,Startup,Executive,CA,37,42,124.17,10.0,9,8,11,False,Too many clicks to share a report with my finance team.
+R00929,2026-04-12,Startup,Executive,US,6,5,512.39,7.6,6,6,11,True,Love the dashboard speed; charts render instantly on my laptop.
+R00930,2026-02-15,Enterprise,Director,IN,32,196,295.65,6.3,6,11,10,True,Too many clicks to share a report with my finance team.
+R00931,2026-03-03,Mid-market,Analyst,US,55,205,147.19,7.5,6,15,9,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00932,2026-01-30,SMB,Director,US,34,310,280.53,6.5,4,11,5,True,Support answered within an hour and solved my import problem.
+R00933,2026-08-01,SMB,Engineer,UK,6,117,412.65,8.2,9,8,13,True,Love the dashboard speed; charts render instantly on my laptop.
+R00934,2026-01-12,Mid-market,Director,UK,12,195,94.95,10.0,8,15,8,True,The onboarding flow was smooth but the export step felt slow.
+R00935,2026-03-15,Enterprise,Director,UK,7,240,297.13,8.0,5,9,6,True,"Sync with our warehouse failed twice this month, frustrating."
+R00936,2026-03-06,Mid-market,Engineer,UK,16,175,521.63,7.9,7,8,8,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00937,2026-03-07,SMB,Director,AU,46,148,31.12,9.4,8,9,9,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00938,2026-02-14,Enterprise,Engineer,US,49,155,168.31,7.1,6,10,11,False,Support answered within an hour and solved my import problem.
+R00939,2026-03-07,Startup,Analyst,CA,31,297,426.88,9.3,9,12,14,True,Colour palettes look professional in client presentations.
+R00940,2026-03-24,SMB,Executive,DE,3,292,65.03,8.0,7,10,5,True,Too many clicks to share a report with my finance team.
+R00941,2026-03-02,Startup,Engineer,UK,53,103,283.45,9.2,8,11,14,False,Too many clicks to share a report with my finance team.
+R00942,2026-02-08,Startup,Analyst,US,37,164,411.34,6.8,7,9,5,True,Colour palettes look professional in client presentations.
+R00943,2026-04-10,Startup,Director,UK,6,117,500.17,5.4,6,14,12,True,Too many clicks to share a report with my finance team.
+R00944,2026-01-17,Startup,Engineer,BR,31,302,557.21,9.4,9,8,9,True,Colour palettes look professional in client presentations.
+R00945,2026-06-05,Enterprise,Director,BR,52,112,231.52,8.9,8,11,5,True,The onboarding flow was smooth but the export step felt slow.
+R00946,2026-06-02,Enterprise,Manager,IN,9,51,323.48,8.0,7,7,13,False,The template gallery saves me hours every single week.
+R00947,2026-04-19,Startup,Executive,DE,53,171,73.02,6.7,5,10,3,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00948,2026-06-05,Enterprise,Engineer,IN,48,106,383.3,7.6,7,7,5,True,Too many clicks to share a report with my finance team.
+R00949,2026-04-08,SMB,Engineer,IN,47,57,570.27,7.6,6,11,3,True,Colour palettes look professional in client presentations.
+R00950,2026-01-27,Startup,Engineer,IN,15,218,302.74,7.8,10,7,13,True,Support answered within an hour and solved my import problem.
+R00951,2026-06-10,Enterprise,Engineer,CA,15,40,278.82,8.5,7,11,1,False,"Sync with our warehouse failed twice this month, frustrating."
+R00952,2026-03-24,SMB,Executive,BR,48,193,71.44,7.6,9,7,12,True,"Sync with our warehouse failed twice this month, frustrating."
+R00953,2026-05-06,Startup,Analyst,AU,25,77,306.29,8.8,7,14,14,True,Too many clicks to share a report with my finance team.
+R00954,2026-07-08,SMB,Executive,UK,40,172,324.82,9.0,7,7,1,True,Too many clicks to share a report with my finance team.
+R00955,2026-03-23,Startup,Analyst,DE,27,152,267.45,8.4,5,9,10,False,"Sync with our warehouse failed twice this month, frustrating."
+R00956,2026-06-20,SMB,Engineer,IN,47,149,66.98,5.7,4,13,13,True,The onboarding flow was smooth but the export step felt slow.
+R00957,2026-05-23,Startup,Executive,DE,35,113,197.97,8.7,8,12,2,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00958,2026-06-12,SMB,Manager,IN,11,196,338.37,6.8,4,9,10,True,Too many clicks to share a report with my finance team.
+R00959,2026-04-25,Startup,Analyst,US,46,189,405.02,9.3,8,11,9,True,"Sync with our warehouse failed twice this month, frustrating."
+R00960,2026-05-20,SMB,Executive,AU,20,308,638.48,8.2,6,9,9,True,Would pay more for scheduled reports and Slack delivery.
+R00961,2026-06-19,Startup,Executive,BR,14,91,314.23,6.6,6,9,5,False,Support answered within an hour and solved my import problem.
+R00962,2026-03-16,Mid-market,Engineer,US,21,135,826.56,8.0,6,10,11,False,Would pay more for scheduled reports and Slack delivery.
+R00963,2026-01-31,SMB,Engineer,DE,21,295,118.49,6.0,6,8,1,True,Colour palettes look professional in client presentations.
+R00964,2026-04-23,Enterprise,Executive,DE,35,72,139.36,7.4,6,6,3,True,Love the dashboard speed; charts render instantly on my laptop.
+R00965,2026-07-16,SMB,Manager,US,59,221,291.02,7.1,5,8,2,True,The onboarding flow was smooth but the export step felt slow.
+R00966,2026-04-24,Mid-market,Director,US,42,85,37.84,6.7,5,10,14,True,Support answered within an hour and solved my import problem.
+R00967,2026-07-23,SMB,Manager,IN,41,233,225.83,7.4,8,10,13,True,The template gallery saves me hours every single week.
+R00968,2026-03-21,Mid-market,Engineer,IN,26,280,132.46,8.2,5,11,13,False,Too many clicks to share a report with my finance team.
+R00969,2026-04-22,Mid-market,Executive,UK,29,225,229.13,7.4,8,11,3,True,Would pay more for scheduled reports and Slack delivery.
+R00970,2026-03-21,SMB,Engineer,US,44,299,271.77,8.3,6,7,3,True,Love the dashboard speed; charts render instantly on my laptop.
+R00971,2026-07-23,SMB,Manager,IN,11,161,151.72,5.9,6,10,11,True,The onboarding flow was smooth but the export step felt slow.
+R00972,2026-07-20,Mid-market,Analyst,DE,4,258,270.42,8.6,7,11,8,True,The template gallery saves me hours every single week.
+R00973,2026-03-31,SMB,Executive,IN,39,303,98.66,7.1,8,16,8,True,Colour palettes look professional in client presentations.
+R00974,2026-07-10,Startup,Engineer,BR,14,77,82.84,6.3,3,13,10,True,Support answered within an hour and solved my import problem.
+R00975,2026-04-04,Startup,Director,US,8,247,284.16,9.2,8,14,12,True,The onboarding flow was smooth but the export step felt slow.
+R00976,2026-05-09,Startup,Manager,CA,7,100,289.73,6.7,6,6,2,True,Support answered within an hour and solved my import problem.
+R00977,2026-03-11,Enterprise,Analyst,UK,25,8,294.0,5.6,6,6,12,True,"Sync with our warehouse failed twice this month, frustrating."
+R00978,2026-07-06,SMB,Engineer,IN,39,50,454.69,7.2,4,10,1,True,The template gallery saves me hours every single week.
+R00979,2026-05-06,Mid-market,Engineer,US,20,281,969.15,10.0,8,14,3,True,Support answered within an hour and solved my import problem.
+R00980,2026-02-17,SMB,Director,DE,24,94,295.42,7.2,5,9,13,False,"Sync with our warehouse failed twice this month, frustrating."
+R00981,2026-01-23,Mid-market,Executive,US,26,195,509.37,8.7,7,7,5,True,Would pay more for scheduled reports and Slack delivery.
+R00982,2026-04-15,Startup,Director,US,57,60,845.32,7.1,6,9,12,True,The template gallery saves me hours every single week.
+R00983,2026-02-27,Mid-market,Director,BR,15,223,580.47,9.1,8,14,6,True,Too many clicks to share a report with my finance team.
+R00984,2026-02-19,SMB,Executive,US,47,73,232.26,9.4,10,4,11,True,Too many clicks to share a report with my finance team.
+R00985,2026-03-08,SMB,Engineer,US,9,287,491.15,7.9,7,7,5,True,The template gallery saves me hours every single week.
+R00986,2026-07-05,SMB,Manager,UK,8,201,237.74,7.0,5,16,4,False,Too many clicks to share a report with my finance team.
+R00987,2026-03-07,SMB,Engineer,DE,25,138,234.21,3.2,1,8,1,True,The template gallery saves me hours every single week.
+R00988,2026-05-25,Startup,Director,IN,22,274,529.05,10.0,9,12,7,True,The onboarding flow was smooth but the export step felt slow.
+R00989,2026-01-06,SMB,Analyst,US,56,75,362.67,6.4,6,7,9,False,The template gallery saves me hours every single week.
+R00990,2026-03-31,Startup,Executive,CA,41,125,299.86,7.1,8,9,10,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R00991,2026-02-18,Startup,Manager,DE,28,236,186.71,8.7,9,12,13,True,The onboarding flow was smooth but the export step felt slow.
+R00992,2026-03-02,Mid-market,Manager,AU,25,98,246.63,9.6,5,10,1,True,Support answered within an hour and solved my import problem.
+R00993,2026-06-22,SMB,Analyst,US,5,174,302.79,9.5,6,9,4,True,"Sync with our warehouse failed twice this month, frustrating."
+R00994,2026-06-17,SMB,Executive,BR,57,36,163.11,7.8,5,10,14,True,The onboarding flow was smooth but the export step felt slow.
+R00995,2026-02-11,Startup,Manager,IN,22,95,73.81,10.0,10,9,9,False,Love the dashboard speed; charts render instantly on my laptop.
+R00996,2026-03-28,Startup,Executive,BR,17,311,100.69,6.4,6,6,14,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00997,2026-05-10,SMB,Engineer,CA,39,20,211.41,8.6,7,11,12,True,Mobile layout breaks on my tablet when I rotate the screen.
+R00998,2026-06-08,Startup,Analyst,IN,48,57,639.98,6.3,4,11,13,True,Colour palettes look professional in client presentations.
+R00999,2026-05-27,Mid-market,Analyst,US,59,292,347.03,5.9,2,14,5,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R01000,2026-03-01,SMB,Analyst,DE,33,307,107.31,8.8,8,10,11,True,Mobile layout breaks on my tablet when I rotate the screen.
+R01001,2026-07-19,Startup,Analyst,UK,29,235,569.38,9.6,6,11,9,True,Would pay more for scheduled reports and Slack delivery.
+R01002,2026-03-11,Enterprise,Manager,US,48,302,234.54,6.3,5,11,12,True,The onboarding flow was smooth but the export step felt slow.
+R01003,2026-05-27,SMB,Manager,US,38,303,297.47,6.9,6,10,6,True,"Sync with our warehouse failed twice this month, frustrating."
+R01004,2026-05-02,SMB,Director,IN,14,200,388.15,6.1,6,5,9,True,Too many clicks to share a report with my finance team.
+R01005,2026-03-04,SMB,Manager,UK,42,287,96.55,7.4,6,13,13,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R01006,2026-01-21,SMB,Analyst,CA,39,193,236.55,7.5,7,10,12,True,The onboarding flow was smooth but the export step felt slow.
+R01007,2026-03-25,Mid-market,Manager,UK,6,235,512.39,6.8,6,12,9,True,The template gallery saves me hours every single week.
+R01008,2026-03-02,SMB,Director,IN,24,158,107.83,6.8,4,10,9,False,Would pay more for scheduled reports and Slack delivery.
+R01009,2026-04-27,Mid-market,Analyst,IN,12,117,270.09,9.2,7,11,9,True,Support answered within an hour and solved my import problem.
+R01010,2026-07-19,Startup,Manager,DE,33,270,772.04,6.4,4,12,14,True,The template gallery saves me hours every single week.
+R01011,2026-06-26,Mid-market,Director,IN,48,318,377.35,6.9,5,5,4,False,Would pay more for scheduled reports and Slack delivery.
+R01012,2026-05-05,Startup,Manager,CA,47,267,56.53,8.1,10,10,14,True,"Sync with our warehouse failed twice this month, frustrating."
+R01013,2026-04-06,Enterprise,Manager,DE,4,281,564.54,5.3,2,6,1,True,Support answered within an hour and solved my import problem.
+R01014,2026-07-15,Startup,Engineer,AU,48,46,488.9,7.0,7,4,8,False,Would pay more for scheduled reports and Slack delivery.
+R01015,2026-01-08,Mid-market,Analyst,UK,1,312,400.03,10.0,9,13,12,False,Would pay more for scheduled reports and Slack delivery.
+R01016,2026-01-25,Startup,Engineer,AU,37,280,281.37,5.8,5,10,14,True,"Sync with our warehouse failed twice this month, frustrating."
+R01017,2026-07-05,SMB,Executive,BR,34,245,41.97,8.3,5,9,2,True,"Sync with our warehouse failed twice this month, frustrating."
+R01018,2026-06-23,Mid-market,Manager,UK,11,193,159.99,7.9,7,11,1,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R01019,2026-07-28,SMB,Engineer,IN,48,61,165.29,9.1,7,9,4,False,Too many clicks to share a report with my finance team.
+R01020,2026-05-29,SMB,Engineer,US,26,101,140.9,9.6,10,6,2,False,Too many clicks to share a report with my finance team.
+R01021,2026-02-24,Startup,Director,CA,54,191,300.59,7.6,6,7,1,False,Love the dashboard speed; charts render instantly on my laptop.
+R01022,2026-03-05,Startup,Director,US,41,174,164.26,5.8,3,10,6,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R01023,2026-07-07,Startup,Manager,DE,48,312,93.25,8.4,6,11,11,False,Colour palettes look professional in client presentations.
+R01024,2026-06-19,Mid-market,Executive,UK,7,55,409.0,7.8,5,10,4,True,The onboarding flow was smooth but the export step felt slow.
+R01025,2026-05-18,Startup,Director,CA,38,165,198.75,6.1,5,6,4,True,Too many clicks to share a report with my finance team.
+R01026,2026-06-10,SMB,Manager,US,59,88,167.99,5.3,4,11,12,False,"Sync with our warehouse failed twice this month, frustrating."
+R01027,2026-02-28,SMB,Analyst,IN,1,95,318.77,8.4,8,8,11,True,Too many clicks to share a report with my finance team.
+R01028,2026-02-04,SMB,Analyst,US,44,130,247.64,9.3,9,11,12,True,Love the dashboard speed; charts render instantly on my laptop.
+R01029,2026-06-03,Mid-market,Manager,AU,43,230,1693.0,10.0,9,12,12,True,Colour palettes look professional in client presentations.
+R01030,2026-07-08,Enterprise,Engineer,DE,48,66,293.45,6.8,4,8,11,True,The template gallery saves me hours every single week.
+R01031,2026-05-05,Startup,Analyst,IN,37,193,274.53,8.6,8,11,2,False,The onboarding flow was smooth but the export step felt slow.
+R01032,2026-02-15,Mid-market,Manager,IN,48,242,211.81,7.8,6,6,13,True,Colour palettes look professional in client presentations.
+R01033,2026-04-21,Mid-market,Engineer,BR,27,161,423.07,8.8,6,8,4,True,Too many clicks to share a report with my finance team.
+R01034,2026-01-22,Startup,Executive,CA,13,119,341.36,7.3,4,9,9,True,Colour palettes look professional in client presentations.
+R01035,2026-07-13,SMB,Manager,BR,5,223,355.95,7.2,4,11,6,True,Mobile layout breaks on my tablet when I rotate the screen.
+R01036,2026-06-11,Enterprise,Engineer,IN,37,102,122.9,10.0,10,11,4,True,Mobile layout breaks on my tablet when I rotate the screen.
+R01037,2026-03-08,Startup,Executive,US,41,180,197.54,9.8,10,9,5,True,Mobile layout breaks on my tablet when I rotate the screen.
+R01038,2026-05-21,Mid-market,Manager,CA,32,258,330.9,10.0,9,8,6,False,Too many clicks to share a report with my finance team.
+R01039,2026-07-28,Mid-market,Executive,UK,52,115,343.25,9.1,9,11,1,True,Would pay more for scheduled reports and Slack delivery.
+R01040,2026-01-06,Startup,Manager,BR,25,276,738.74,10.0,10,7,14,False,Too many clicks to share a report with my finance team.
+R01041,2026-03-12,SMB,Engineer,US,7,1,142.2,7.9,5,8,3,True,Colour palettes look professional in client presentations.
+R01042,2026-02-03,Mid-market,Analyst,IN,23,261,46.73,7.4,5,9,13,True,Colour palettes look professional in client presentations.
+R01043,2026-01-20,Enterprise,Engineer,US,9,100,153.61,7.6,7,8,10,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R01044,2026-07-09,Startup,Director,CA,12,210,190.05,8.6,7,10,5,True,Would pay more for scheduled reports and Slack delivery.
+R01045,2026-05-06,Startup,Manager,IN,23,197,213.04,6.2,5,15,12,True,Would pay more for scheduled reports and Slack delivery.
+R01046,2026-07-19,SMB,Engineer,UK,33,51,263.49,8.6,4,8,10,True,Too many clicks to share a report with my finance team.
+R01047,2026-02-06,Enterprise,Executive,US,58,133,338.01,7.6,6,10,14,True,Mobile layout breaks on my tablet when I rotate the screen.
+R01048,2026-04-04,SMB,Manager,BR,18,292,209.05,8.2,6,6,14,True,Colour palettes look professional in client presentations.
+R01049,2026-03-10,SMB,Director,AU,32,244,158.41,8.2,8,11,5,True,Love the dashboard speed; charts render instantly on my laptop.
+R01050,2026-01-27,Enterprise,Engineer,US,48,41,429.12,8.3,8,8,2,False,Love the dashboard speed; charts render instantly on my laptop.
+R01051,2026-04-06,SMB,Manager,US,22,24,134.99,7.7,9,11,11,True,"Sync with our warehouse failed twice this month, frustrating."
+R01052,2026-02-05,Enterprise,Manager,US,3,99,883.66,9.6,10,10,14,True,Support answered within an hour and solved my import problem.
+R01053,2026-03-21,Mid-market,Executive,CA,39,200,850.81,10.0,9,11,12,True,The template gallery saves me hours every single week.
+R01054,2026-07-18,SMB,Executive,US,60,52,239.47,6.3,7,11,6,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R01055,2026-02-07,Mid-market,Analyst,IN,14,275,562.92,6.2,5,12,11,True,Would pay more for scheduled reports and Slack delivery.
+R01056,2026-03-28,Mid-market,Director,US,10,252,461.18,8.1,9,7,14,True,Would pay more for scheduled reports and Slack delivery.
+R01057,2026-04-26,Enterprise,Analyst,IN,14,238,194.75,5.8,5,6,12,True,"Sync with our warehouse failed twice this month, frustrating."
+R01058,2026-04-27,Startup,Director,US,2,27,94.23,6.0,4,15,2,True,Would pay more for scheduled reports and Slack delivery.
+R01059,2026-02-07,Mid-market,Manager,CA,38,2,156.06,7.0,7,18,3,False,The template gallery saves me hours every single week.
+R01060,2026-04-12,Startup,Analyst,BR,13,175,246.61,6.4,5,9,4,True,"Sync with our warehouse failed twice this month, frustrating."
+R01061,2026-04-24,Enterprise,Executive,US,39,102,74.16,6.9,6,8,6,False,Too many clicks to share a report with my finance team.
+R01062,2026-04-10,Startup,Executive,US,41,251,750.62,8.3,9,9,11,True,"Sync with our warehouse failed twice this month, frustrating."
+R01063,2026-02-06,SMB,Executive,AU,31,226,89.69,4.7,5,10,14,True,Too many clicks to share a report with my finance team.
+R01064,2026-01-30,SMB,Director,IN,30,214,1023.89,9.6,10,10,1,True,Too many clicks to share a report with my finance team.
+R01065,2026-08-01,Enterprise,Analyst,CA,1,203,417.35,7.3,4,11,6,True,Love the dashboard speed; charts render instantly on my laptop.
+R01066,2026-01-20,SMB,Manager,CA,26,27,306.11,9.7,9,9,9,False,Too many clicks to share a report with my finance team.
+R01067,2026-02-21,SMB,Engineer,US,13,79,227.34,7.6,5,7,3,True,The template gallery saves me hours every single week.
+R01068,2026-02-26,Mid-market,Manager,US,47,130,160.76,6.7,4,10,11,True,Colour palettes look professional in client presentations.
+R01069,2026-05-18,Startup,Director,DE,58,232,102.11,6.4,5,10,9,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R01070,2026-06-08,Enterprise,Manager,CA,28,28,309.47,8.6,8,7,7,False,The onboarding flow was smooth but the export step felt slow.
+R01071,2026-06-29,SMB,Manager,IN,12,221,136.33,7.7,6,18,7,True,The template gallery saves me hours every single week.
+R01072,2026-06-30,Mid-market,Engineer,UK,2,55,247.19,8.9,8,13,6,True,Colour palettes look professional in client presentations.
+R01073,2026-04-05,Startup,Executive,US,11,283,224.64,8.7,5,9,11,True,Love the dashboard speed; charts render instantly on my laptop.
+R01074,2026-02-10,Startup,Analyst,IN,22,305,817.9,9.2,8,9,7,True,Colour palettes look professional in client presentations.
+R01075,2026-06-12,SMB,Director,CA,56,82,136.5,8.0,5,7,11,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R01076,2026-05-17,Mid-market,Engineer,CA,46,275,161.58,8.3,6,11,11,True,Mobile layout breaks on my tablet when I rotate the screen.
+R01077,2026-01-12,Mid-market,Manager,US,7,181,652.57,8.1,7,12,9,False,Colour palettes look professional in client presentations.
+R01078,2026-07-20,SMB,Analyst,BR,40,27,179.14,8.5,7,6,10,True,Love the dashboard speed; charts render instantly on my laptop.
+R01079,2026-02-16,Startup,Director,AU,3,162,119.3,7.1,4,15,5,True,Would pay more for scheduled reports and Slack delivery.
+R01080,2026-04-15,Startup,Director,DE,13,115,295.13,8.4,7,10,8,True,Mobile layout breaks on my tablet when I rotate the screen.
+R01081,2026-03-17,Startup,Director,DE,60,26,44.95,10.0,10,13,7,True,Support answered within an hour and solved my import problem.
+R01082,2026-06-16,Startup,Manager,IN,55,117,95.16,7.7,7,7,12,True,The onboarding flow was smooth but the export step felt slow.
+R01083,2026-01-18,Enterprise,Executive,BR,13,232,46.49,7.8,6,7,9,True,The onboarding flow was smooth but the export step felt slow.
+R01084,2026-05-22,Startup,Manager,DE,44,237,1854.72,9.2,7,6,12,True,Colour palettes look professional in client presentations.
+R01085,2026-06-27,SMB,Analyst,US,48,12,140.07,10.0,9,8,11,True,Colour palettes look professional in client presentations.
+R01086,2026-05-05,Mid-market,Analyst,CA,34,294,99.81,8.9,7,13,3,True,The onboarding flow was smooth but the export step felt slow.
+R01087,2026-05-17,Startup,Director,UK,11,162,122.18,4.7,0,5,14,True,Love the dashboard speed; charts render instantly on my laptop.
+R01088,2026-07-17,Startup,Director,US,19,258,155.3,5.9,4,14,10,False,"Sync with our warehouse failed twice this month, frustrating."
+R01089,2026-03-27,Startup,Manager,AU,7,201,335.98,6.2,5,4,7,True,Too many clicks to share a report with my finance team.
+R01090,2026-03-07,Enterprise,Director,US,47,190,421.69,5.9,2,8,9,True,Too many clicks to share a report with my finance team.
+R01091,2026-06-03,Enterprise,Manager,DE,59,88,945.4,7.0,3,15,12,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R01092,2026-07-27,Enterprise,Director,US,16,97,298.42,8.6,6,12,1,True,"Sync with our warehouse failed twice this month, frustrating."
+R01093,2026-02-09,Enterprise,Executive,DE,28,3,203.86,8.0,7,11,9,False,The template gallery saves me hours every single week.
+R01094,2026-03-07,Mid-market,Engineer,US,57,102,180.25,6.7,4,8,3,True,Support answered within an hour and solved my import problem.
+R01095,2026-04-03,SMB,Analyst,US,53,189,356.88,10.0,10,6,9,True,Support answered within an hour and solved my import problem.
+R01096,2026-06-23,SMB,Manager,US,59,312,131.45,8.0,8,14,2,True,Too many clicks to share a report with my finance team.
+R01097,2026-06-15,Startup,Manager,IN,27,168,459.08,8.1,5,14,3,False,The template gallery saves me hours every single week.
+R01098,2026-07-23,Startup,Analyst,IN,47,252,243.93,9.1,8,5,7,True,The onboarding flow was smooth but the export step felt slow.
+R01099,2026-04-22,SMB,Manager,DE,24,189,179.46,9.0,8,12,6,True,The onboarding flow was smooth but the export step felt slow.
+R01100,2026-07-13,Mid-market,Analyst,DE,24,292,252.91,8.1,6,13,9,False,"Sync with our warehouse failed twice this month, frustrating."
+R01101,2026-07-01,Enterprise,Executive,AU,54,83,391.85,10.0,9,5,4,True,Would pay more for scheduled reports and Slack delivery.
+R01102,2026-07-10,SMB,Analyst,US,48,65,270.59,7.4,7,10,3,True,Would pay more for scheduled reports and Slack delivery.
+R01103,2026-06-02,Mid-market,Engineer,US,56,316,75.91,10.0,7,13,1,True,Mobile layout breaks on my tablet when I rotate the screen.
+R01104,2026-03-25,Mid-market,Analyst,IN,15,296,126.38,8.2,9,4,10,False,Support answered within an hour and solved my import problem.
+R01105,2026-02-13,Enterprise,Director,UK,7,317,1439.5,8.5,6,12,4,False,"Sync with our warehouse failed twice this month, frustrating."
+R01106,2026-04-23,Startup,Engineer,US,57,221,223.71,7.8,7,11,7,True,Too many clicks to share a report with my finance team.
+R01107,2026-07-19,SMB,Executive,DE,20,263,700.57,7.2,8,15,6,True,Love the dashboard speed; charts render instantly on my laptop.
+R01108,2026-06-15,SMB,Director,US,59,230,271.65,7.3,5,11,10,False,Too many clicks to share a report with my finance team.
+R01109,2026-07-23,SMB,Manager,US,11,291,279.18,7.7,7,13,8,True,The template gallery saves me hours every single week.
+R01110,2026-02-23,Startup,Director,CA,28,257,117.88,9.3,9,13,7,True,Colour palettes look professional in client presentations.
+R01111,2026-07-06,Startup,Analyst,UK,7,198,512.9,7.1,4,8,1,True,Support answered within an hour and solved my import problem.
+R01112,2026-03-06,Mid-market,Analyst,IN,3,317,161.34,5.7,7,12,14,True,Mobile layout breaks on my tablet when I rotate the screen.
+R01113,2026-05-05,Startup,Director,UK,48,312,173.57,7.6,5,8,13,True,Colour palettes look professional in client presentations.
+R01114,2026-05-05,Enterprise,Analyst,CA,56,286,121.23,7.8,9,10,5,False,"Sync with our warehouse failed twice this month, frustrating."
+R01115,2026-01-30,Mid-market,Director,AU,5,132,274.01,8.7,7,8,3,False,Colour palettes look professional in client presentations.
+R01116,2026-06-14,Mid-market,Director,UK,52,249,385.37,9.2,6,12,8,False,Would pay more for scheduled reports and Slack delivery.
+R01117,2026-07-10,SMB,Analyst,IN,22,63,193.8,7.0,5,17,12,True,Colour palettes look professional in client presentations.
+R01118,2026-07-08,Mid-market,Engineer,IN,52,290,61.02,7.9,4,13,14,True,The template gallery saves me hours every single week.
+R01119,2026-03-07,Mid-market,Executive,US,41,301,376.44,7.2,5,8,11,True,Support answered within an hour and solved my import problem.
+R01120,2026-02-08,Enterprise,Director,US,41,97,67.3,9.7,9,11,11,True,Mobile layout breaks on my tablet when I rotate the screen.
+R01121,2026-02-04,Mid-market,Executive,US,56,237,86.56,9.0,10,17,8,True,Love the dashboard speed; charts render instantly on my laptop.
+R01122,2026-07-26,Enterprise,Analyst,US,2,195,55.84,7.5,7,7,2,False,"Sync with our warehouse failed twice this month, frustrating."
+R01123,2026-01-09,Startup,Manager,UK,10,155,607.14,6.3,3,5,11,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R01124,2026-07-01,Startup,Manager,US,23,312,135.36,7.5,7,9,4,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R01125,2026-01-08,SMB,Director,BR,8,277,237.32,9.1,8,9,11,False,Support answered within an hour and solved my import problem.
+R01126,2026-05-04,SMB,Analyst,DE,39,75,637.44,6.6,4,11,13,False,Support answered within an hour and solved my import problem.
+R01127,2026-01-14,SMB,Director,UK,9,80,305.62,8.5,9,15,6,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R01128,2026-04-20,SMB,Executive,CA,30,272,207.84,8.2,9,11,10,True,The onboarding flow was smooth but the export step felt slow.
+R01129,2026-06-18,Startup,Analyst,AU,34,173,157.28,5.9,3,11,13,True,"Sync with our warehouse failed twice this month, frustrating."
+R01130,2026-04-05,Mid-market,Engineer,DE,4,256,1188.86,8.0,7,14,8,True,"Sync with our warehouse failed twice this month, frustrating."
+R01131,2026-02-09,Startup,Director,US,37,181,220.34,8.5,7,9,13,True,The onboarding flow was smooth but the export step felt slow.
+R01132,2026-07-01,SMB,Analyst,IN,5,102,409.61,9.1,10,10,9,False,Would pay more for scheduled reports and Slack delivery.
+R01133,2026-01-26,SMB,Analyst,BR,52,30,177.02,4.5,4,9,6,True,The onboarding flow was smooth but the export step felt slow.
+R01134,2026-01-13,Enterprise,Manager,DE,42,90,137.78,8.7,8,10,8,False,Too many clicks to share a report with my finance team.
+R01135,2026-04-05,Startup,Analyst,CA,36,272,297.05,5.8,4,10,8,True,Colour palettes look professional in client presentations.
+R01136,2026-02-23,SMB,Director,CA,3,89,230.33,7.8,8,8,12,False,Support answered within an hour and solved my import problem.
+R01137,2026-07-10,Mid-market,Engineer,AU,57,107,315.86,9.4,10,8,13,True,Mobile layout breaks on my tablet when I rotate the screen.
+R01138,2026-01-06,SMB,Manager,US,5,315,220.25,9.1,8,8,13,True,Too many clicks to share a report with my finance team.
+R01139,2026-07-17,Mid-market,Engineer,IN,8,62,664.21,7.8,7,14,11,True,Support answered within an hour and solved my import problem.
+R01140,2026-05-06,Startup,Engineer,US,37,52,166.85,8.5,8,11,2,True,Would pay more for scheduled reports and Slack delivery.
+R01141,2026-03-23,Startup,Executive,UK,60,99,427.94,6.8,6,14,11,True,Too many clicks to share a report with my finance team.
+R01142,2026-07-09,SMB,Analyst,AU,55,118,989.98,7.0,3,7,13,True,The onboarding flow was smooth but the export step felt slow.
+R01143,2026-04-06,Mid-market,Analyst,IN,31,116,452.64,7.2,6,6,2,False,Love the dashboard speed; charts render instantly on my laptop.
+R01144,2026-05-01,Enterprise,Director,UK,40,159,573.47,6.5,5,5,10,True,"Sync with our warehouse failed twice this month, frustrating."
+R01145,2026-01-13,Startup,Analyst,US,54,167,722.5,9.7,8,10,10,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R01146,2026-06-13,Mid-market,Director,AU,13,192,339.76,8.7,8,13,12,False,Mobile layout breaks on my tablet when I rotate the screen.
+R01147,2026-02-21,Startup,Director,US,30,298,246.72,6.6,5,9,2,True,Would pay more for scheduled reports and Slack delivery.
+R01148,2026-07-11,Enterprise,Director,IN,39,165,419.31,6.9,8,10,2,True,Mobile layout breaks on my tablet when I rotate the screen.
+R01149,2026-01-16,Startup,Director,CA,2,48,266.57,8.3,7,10,1,True,Support answered within an hour and solved my import problem.
+R01150,2026-01-24,Mid-market,Engineer,US,4,241,264.77,9.4,7,8,14,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R01151,2026-07-12,Mid-market,Director,DE,58,98,202.18,10.0,10,6,13,True,The onboarding flow was smooth but the export step felt slow.
+R01152,2026-04-17,Startup,Analyst,IN,38,95,114.66,6.1,4,11,3,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R01153,2026-07-26,Startup,Director,UK,56,254,414.89,7.4,3,8,9,True,Support answered within an hour and solved my import problem.
+R01154,2026-03-21,SMB,Manager,US,24,211,416.19,8.7,7,9,6,False,Too many clicks to share a report with my finance team.
+R01155,2026-03-15,Startup,Analyst,US,30,20,87.7,6.7,5,11,8,True,Mobile layout breaks on my tablet when I rotate the screen.
+R01156,2026-03-01,Mid-market,Executive,BR,59,245,184.77,7.8,7,15,9,True,The onboarding flow was smooth but the export step felt slow.
+R01157,2026-05-08,Enterprise,Director,AU,38,65,180.61,3.6,3,6,3,True,Too many clicks to share a report with my finance team.
+R01158,2026-01-18,Enterprise,Manager,US,36,250,173.75,8.8,9,13,8,True,Would pay more for scheduled reports and Slack delivery.
+R01159,2026-03-02,Mid-market,Analyst,US,39,149,248.78,6.4,5,12,7,True,Colour palettes look professional in client presentations.
+R01160,2026-03-30,SMB,Executive,US,2,12,155.15,9.7,8,13,8,True,Mobile layout breaks on my tablet when I rotate the screen.
+R01161,2026-04-14,Mid-market,Engineer,IN,39,101,255.69,8.1,4,8,5,True,The onboarding flow was smooth but the export step felt slow.
+R01162,2026-02-01,Startup,Manager,US,36,151,252.11,8.0,6,8,9,False,Would pay more for scheduled reports and Slack delivery.
+R01163,2026-05-06,Startup,Engineer,CA,19,53,721.28,7.9,7,11,6,True,Too many clicks to share a report with my finance team.
+R01164,2026-05-02,Mid-market,Director,US,28,311,692.22,8.4,6,12,7,True,The onboarding flow was smooth but the export step felt slow.
+R01165,2026-03-22,SMB,Director,UK,43,140,539.7,8.3,6,9,14,False,The onboarding flow was smooth but the export step felt slow.
+R01166,2026-02-27,SMB,Executive,IN,1,285,44.54,5.0,0,13,8,True,Mobile layout breaks on my tablet when I rotate the screen.
+R01167,2026-06-01,SMB,Manager,US,34,271,365.53,7.5,5,17,2,True,Would pay more for scheduled reports and Slack delivery.
+R01168,2026-04-21,Startup,Director,US,2,250,114.22,8.9,7,14,14,True,Love the dashboard speed; charts render instantly on my laptop.
+R01169,2026-03-09,SMB,Analyst,US,35,200,72.41,9.0,9,9,1,True,"Sync with our warehouse failed twice this month, frustrating."
+R01170,2026-01-16,Enterprise,Executive,IN,33,20,152.66,10.0,8,14,3,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R01171,2026-07-04,Enterprise,Analyst,AU,37,283,438.13,8.9,7,8,12,False,The onboarding flow was smooth but the export step felt slow.
+R01172,2026-03-27,Enterprise,Director,CA,32,87,147.63,7.0,5,10,2,False,Too many clicks to share a report with my finance team.
+R01173,2026-01-30,Mid-market,Director,UK,28,3,74.96,10.0,7,14,2,False,Support answered within an hour and solved my import problem.
+R01174,2026-05-24,SMB,Director,IN,49,161,617.41,9.2,10,10,9,False,The onboarding flow was smooth but the export step felt slow.
+R01175,2026-07-16,Startup,Executive,CA,23,262,239.48,7.3,6,8,2,True,Support answered within an hour and solved my import problem.
+R01176,2026-01-27,SMB,Manager,UK,50,150,433.35,9.2,8,11,11,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R01177,2026-02-16,Startup,Manager,IN,39,92,564.21,9.6,6,6,12,False,Would pay more for scheduled reports and Slack delivery.
+R01178,2026-03-26,Mid-market,Executive,UK,49,5,48.64,7.9,7,8,2,True,Love the dashboard speed; charts render instantly on my laptop.
+R01179,2026-05-25,Startup,Executive,UK,39,5,102.09,8.4,7,7,4,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R01180,2026-02-15,Mid-market,Executive,DE,9,78,158.48,10.0,10,11,8,True,Support answered within an hour and solved my import problem.
+R01181,2026-04-16,Mid-market,Engineer,IN,53,180,192.52,7.9,6,11,4,False,The template gallery saves me hours every single week.
+R01182,2026-04-12,Enterprise,Analyst,CA,18,87,235.89,8.1,8,9,7,True,The onboarding flow was smooth but the export step felt slow.
+R01183,2026-06-13,SMB,Manager,CA,48,291,919.34,6.7,0,9,14,True,Support answered within an hour and solved my import problem.
+R01184,2026-07-18,SMB,Analyst,AU,32,218,111.6,8.4,8,6,7,True,Mobile layout breaks on my tablet when I rotate the screen.
+R01185,2026-06-28,Mid-market,Director,CA,56,104,382.58,8.0,7,17,1,True,"Sync with our warehouse failed twice this month, frustrating."
+R01186,2026-01-26,Startup,Executive,IN,60,246,143.33,10.0,10,13,5,False,The onboarding flow was smooth but the export step felt slow.
+R01187,2026-04-26,Startup,Engineer,DE,3,98,397.16,6.2,4,10,4,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R01188,2026-05-13,Startup,Executive,BR,5,154,760.95,8.9,7,17,2,True,Support answered within an hour and solved my import problem.
+R01189,2026-03-26,SMB,Executive,US,44,33,66.65,7.3,6,8,12,True,Too many clicks to share a report with my finance team.
+R01190,2026-03-12,SMB,Executive,IN,24,283,108.3,9.5,8,12,12,False,The template gallery saves me hours every single week.
+R01191,2026-01-14,Startup,Director,BR,25,291,208.93,6.5,8,5,6,True,Colour palettes look professional in client presentations.
+R01192,2026-06-21,SMB,Analyst,CA,31,173,142.73,9.6,8,11,9,True,Love the dashboard speed; charts render instantly on my laptop.
+R01193,2026-05-09,SMB,Analyst,UK,2,148,111.93,6.3,3,11,3,True,Support answered within an hour and solved my import problem.
+R01194,2026-05-13,SMB,Manager,AU,47,56,66.24,10.0,9,10,6,True,Mobile layout breaks on my tablet when I rotate the screen.
+R01195,2026-03-29,Mid-market,Director,DE,53,100,492.62,7.5,5,5,5,True,Support answered within an hour and solved my import problem.
+R01196,2026-07-13,Mid-market,Analyst,IN,23,77,392.4,8.7,8,9,4,True,Support answered within an hour and solved my import problem.
+R01197,2026-02-13,SMB,Director,US,37,158,422.92,6.9,6,8,8,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R01198,2026-04-21,Mid-market,Manager,UK,34,54,174.69,8.3,8,11,4,False,"Pricing is confusing compared to competitors, needs clearer tiers."
+R01199,2026-01-27,Mid-market,Analyst,UK,33,236,41.54,8.1,8,10,11,True,"Pricing is confusing compared to competitors, needs clearer tiers."
+R01200,2026-01-05,Startup,Manager,US,23,118,598.39,8.4,9,9,13,True,Mobile layout breaks on my tablet when I rotate the screen.
